@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta
+      name="description"
+      content="  - Harvard University, Institute for Applied Computational Science. High Performance Computing for Science and Engineering"
+    />
+    <meta name="author" content="" />
+<meta
+  name="keywords"
+  content=""
+/>
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+      integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+      crossorigin="anonymous"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
+      integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+      crossorigin="anonymous"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:400,700|Inconsolata:400,700"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css"
+    />
+
+    <link
+      rel="stylesheet"
+      href="./style/tipuesearch/tipuesearch.css"
+    />
+
+    <link
+      rel="shortcut icon"
+      type="image/x-icon"
+      href="./style/images/favicon.ico"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css"
+      crossorigin="anonymous"
+    />
+
+    <link rel="stylesheet" href="./style/css/iacs.css" />
+
+    <title>Harvard CS205 | High Performance Computing for Science and Engineering</title>
+
+    <style>
+      .navbar {
+        background-color: #EFEFEF
+      }
+
+      .katex {
+        font: normal 1.21em KaTeX_Math, Times New Roman, serif !important;
+      }
+    </style>
+  </head>
+  <body>
+<nav class="navbar navbar-dark navbar-expand-md">
+  <div class="container">
+    <a class="navbar-brand" href=".">
+      <img
+        class="navbar-brand-logo"
+        src="./style/images/logo.png"
+      />
+      <h3 class="course-title">CS205</h3>
+    </a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarsDefault"
+      aria-controls="navbarsDefault"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsDefault">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="./pages/syllabus.html">Syllabus</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./pages/schedule_static.html">Schedule</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./pages/project.html">Project</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./pages/resources.html">Resources</a>
+        </li>
+        <form
+          class="form-inline my-2"
+          action="./search.html"
+          onsubmit="return validateForm(this.elements['q'].value);"
+        >
+          <div class="input-group input-group-sm">
+            <input
+              class="form-control"
+              type="text"
+              name="q"
+              placeholder="Search Topic"
+            />
+            <div class="input-group-append">
+              <button class="btn btn-default" type="submit">
+                <i class="fas fa-search"></i>
+              </button>
+            </div>
+          </div>
+        </form>
+      </ul>
+    </div>
+    <!-- .collapse navbar-collapse -->
+  </div>
+  <!-- .container -->
+</nav>
+    <main id="content" class="container">
+ <h1>High Performance Computing for Science and Engineering</h1>
+ <br />
+ <p>With manufacturing processes reaching the limits in terms of transistor density
+on today’s computing architectures, efficient utilization of computing resources
+must exploit parallel execution to maintain scaling. The use of computers in
+academia, industry and society is a fundamental tool for solving (scientific)
+problems while the "think parallel" mindset of code developers is still lagging
+behind.</p>
+<p>The aim of CS205 is to introduce the student to the fundamentals of parallel
+programming and its relationship on computer architectures. Various forms of
+parallelism are discussed and exploited through different programming models
+with focus on shared and distributed memory programming.</p>
+<p><a href="./pages/syllabus.html">The class syllabus can be found by following this link.</a></p>
+<h2><a id="staff"></a><a class="anchor-link" href="#staff">Teaching Staff</a></h2>
+<p>The preferred way to reach the teaching staff is described in the <a href="./#staff-mailinglist">Teaching
+Staff Mailing List</a> section below.</p>
+<h3><a id="instructor"></a><a class="anchor-link" href="#instructor">Instructor</a></h3>
+<ul>
+<li>Fabian Wermelinger (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#97;&#98;&#105;&#97;&#110;&#119;&#64;&#115;&#101;&#97;&#115;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;">&#102;&#97;&#98;&#105;&#97;&#110;&#119;&#64;&#115;&#101;&#97;&#115;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;</a>)</li>
+<li>Office: Pierce Hall 211</li>
+<li>Office Hours:<ul>
+<li>Monday 11:15am - 12:15pm Pierce Hall 211</li>
+<li>Thursday 12:45pm - 1:45pm SEC 1.312</li>
+</ul>
+</li>
+<li>Laboratory: Thursday (L006) 5:15pm-6:30pm SEC 2.122/3</li>
+</ul>
+<h3><a id="tf"></a><a class="anchor-link" href="#tf">Teaching Fellows</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Fellow</th>
+<th style="text-align: left;">Email</th>
+<th style="text-align: left;">Office Hours</th>
+<th style="text-align: left;">Lab Section</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Albert Ge</td>
+<td style="text-align: left;"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#97;&#108;&#98;&#101;&#114;&#116;&#103;&#101;&#64;&#103;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;">&#97;&#108;&#98;&#101;&#114;&#116;&#103;&#101;&#64;&#103;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;</a></td>
+<td style="text-align: left;">Mon<br>5:15pm-6:15pm SEC 2.123</td>
+<td style="text-align: left;">Mon (L002)<br>3:34pm-5:00pm SEC 2.123</td>
+</tr>
+<tr>
+<td style="text-align: left;">Alex Rodriguez</td>
+<td style="text-align: left;"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#97;&#108;&#101;&#120;&#95;&#114;&#111;&#100;&#114;&#105;&#103;&#117;&#101;&#122;&#64;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;">&#97;&#108;&#101;&#120;&#95;&#114;&#111;&#100;&#114;&#105;&#103;&#117;&#101;&#122;&#64;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;</a></td>
+<td style="text-align: left;">Wed<br>3:45pm-4:45pm MD 123</td>
+<td style="text-align: left;">Mon (L001)<br>9:45am-11:00am SEC 1.319</td>
+</tr>
+<tr>
+<td style="text-align: left;">Emil Ghitman Gilkes</td>
+<td style="text-align: left;"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#101;&#109;&#105;&#108;&#95;&#103;&#104;&#105;&#116;&#109;&#97;&#110;&#103;&#105;&#108;&#107;&#101;&#115;&#64;&#103;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;">&#101;&#109;&#105;&#108;&#95;&#103;&#104;&#105;&#116;&#109;&#97;&#110;&#103;&#105;&#108;&#107;&#101;&#115;&#64;&#103;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;</a></td>
+<td style="text-align: left;">Fri<br>12:45pm-1:45pm SEC 1.316</td>
+<td style="text-align: left;">Wed (L004)<br>9:45am-11:00am SEC 2.122/3</td>
+</tr>
+<tr>
+<td style="text-align: left;">Matheus Farias</td>
+<td style="text-align: left;"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#97;&#116;&#104;&#101;&#117;&#115;&#102;&#97;&#114;&#105;&#97;&#115;&#64;&#103;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;">&#109;&#97;&#116;&#104;&#101;&#117;&#115;&#102;&#97;&#114;&#105;&#97;&#115;&#64;&#103;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;</a></td>
+<td style="text-align: left;">Thu<br>2:15pm-3:15pm SEC 1.316</td>
+<td style="text-align: left;">Tue (L003)<br>12:45pm-2:00pm SEC 3.302/3</td>
+</tr>
+<tr>
+<td style="text-align: left;">Meghna Banerjee</td>
+<td style="text-align: left;"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#101;&#103;&#104;&#110;&#97;&#95;&#98;&#97;&#110;&#101;&#114;&#106;&#101;&#101;&#64;&#103;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;">&#109;&#101;&#103;&#104;&#110;&#97;&#95;&#98;&#97;&#110;&#101;&#114;&#106;&#101;&#101;&#64;&#103;&#46;&#104;&#97;&#114;&#118;&#97;&#114;&#100;&#46;&#101;&#100;&#117;</a></td>
+<td style="text-align: left;">Tue<br>5:15pm-6:15pm SEC 6.412</td>
+<td style="text-align: left;">Wed (L005)<br>5:15pm-6:30pm SEC 1.316</td>
+</tr>
+</tbody>
+</table>
+<p>SEC is the Science and Engineering Complex in Allston and MD is the
+MaxwellDworkin building in Cambridge.</p>
+<blockquote>
+<p>Please see the following files in the class Git repository for more details:</p>
+<ul>
+<li><strong>Office Hours:</strong> <a href="https://code.harvard.edu/CS205/main/blob/master/office_hours.xls">https://code.harvard.edu/CS205/main/blob/master/office_hours.xls</a></li>
+<li><strong>Labs:</strong> <a href="https://code.harvard.edu/CS205/main/blob/master/lab_groups.xls">https://code.harvard.edu/CS205/main/blob/master/lab_groups.xls</a></li>
+</ul>
+</blockquote>
+<h2><a id="hours"></a><a class="anchor-link" href="#hours">Lecture Hours</a></h2>
+<p>All lectures are of 75 minutes duration. Time is given in Eastern Standard Time
+(Boston).</p>
+<blockquote>
+<p>Lecture attendance is <strong>mandatory</strong>:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Time</th>
+<th>Room</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Tuesday</strong></td>
+<td>11:15 AM - 12:30 PM</td>
+<td>SEC 1.321</td>
+</tr>
+<tr>
+<td><strong>Thursday</strong></td>
+<td>11:15 AM - 12:30 PM</td>
+<td>SEC 1.321</td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+<h2><a id="important"></a><a class="anchor-link" href="#important">Important Information</a></h2>
+<ul>
+<li><strong>Canvas:</strong> Is used for posting grades and other class
+  sensitive content: <a href="https://canvas.harvard.edu/courses/113711">https://canvas.harvard.edu/courses/113711</a></li>
+<li><strong>Gradescope:</strong> Is used for homework and lab submissions: <a href="https://canvas.harvard.edu/courses/113711/external_tools/92289?display=borderless">https://canvas.harvard.edu/courses/113711/external_tools/92289?display=borderless</a></li>
+<li><strong>Class Git repository:</strong> The handouts in CS205 are provided through the
+  <code>main</code> repository hosted in the CS205 organization at
+  <a href="https://code.harvard.edu/CS205/main">https://code.harvard.edu/CS205/main</a>.  You can clone this repository once
+  you have joined the CS205 organization</li>
+</ul>
+<div class="highlight"><pre><span></span><code>git<span class="w"> </span>clone<span class="w"> </span>git@code.harvard.edu:CS205/main.git
+</code></pre></div>
+
+<p>Updates to the <code>main</code> repository are posted on the <a
+  href="./#class-mailinglist">class mailing list</a>. Your Harvard ID is
+  required to login to <a href="https://code.harvard.edu">https://code.harvard.edu</a>. You can request
+  membership in the CS205 organization by sending an email to
+  <code>cs205-staff@g.harvard.edu</code> (using your <code>.harvard.edu</code> email).  You
+  must include your
+  <a href="https://harvard.service-now.com/ithelp?id=kb_article&amp;sys_id=507aca5a1b653700efd8a79b2d4bcb59">NetID</a>
+  in the body of your email, which is also your <a href="https://code.harvard.edu">https://code.harvard.edu</a>
+  username (something similar to <code>abc123</code>).</p>
+<h3><a id="class-forum"></a><a class="anchor-link" href="#class-forum">Class Discussion Forum</a></h3>
+<p>We will use the Ed Discussion forum on our Canvas page as our main communication
+platform. Questions regarding homework, labs or lecture material must be posted
+on this forum and you are encouraged to reply to questions if you know the
+answer or you can share a useful contribution.  The community contribution part
+in the final grade is determined through your activity on the class forum.
+Please see the <a href="./pages/syllabus.html#contributions">community
+contributions</a> section in the syllabus for the details.</p>
+<h3><a id="class-mailinglist"></a><a class="anchor-link" href="#class-mailinglist">Class Mailing List</a></h3>
+<p>You can optionally sign up to our class mailing list if you would like to be
+notified whenever there is new class content available in the class Git
+repository.  This is an announcement list only, you cannot post messages to it.
+To sign up, send an email to:</p>
+<blockquote>
+<p><code>cs205+subscribe@g.harvard.edu</code><br>
+<em>(subscribe by sending a blank email to this address; <strong>use the email address
+associated with your HarvardID</strong>)</em></p>
+</blockquote>
+<p><em>You are required to confirm your subscription.  Simply reply to the confirmation
+ email with a blank message to complete the subscription.</em></p>
+<h3><a id="staff-mailinglist"></a><a class="anchor-link" href="#staff-mailinglist">Teaching Staff Mailing List</a></h3>
+<p>You can reach the teaching staff directly by sending your email to the following
+mailing list</p>
+<blockquote>
+<p><code>cs205-staff@g.harvard.edu</code><br>
+<em>(email sent to this list is only seen by the teaching staff; only email
+ending with <strong><code>.harvard.edu</code></strong> is accepted)</em></p>
+</blockquote>
+<p>You are not required to register for this mailing list <strong>but only</strong> email
+addresses ending with <code>.harvard.edu</code> are accepted (you will receive a rejection
+message otherwise).</p>     </main>
+
+<footer class="footer">
+  <div class="container">
+    <span class="text-muted">Copyright 2023 &copy;
+      <a class="text-muted" href="https://iacs.seas.harvard.edu/">Institute for Applied Computational Science</a>
+    </span>
+  </div>
+</footer>     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+      integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+      integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

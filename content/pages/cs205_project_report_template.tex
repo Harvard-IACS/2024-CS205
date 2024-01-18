@@ -1,0 +1,201 @@
+\documentclass[11pt]{article}
+
+\usepackage[letterpaper,includeheadfoot,top=1cm,bottom=2cm,left=2cm,right=2cm]{geometry}
+\usepackage{here}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{bm}
+\usepackage{sectsty}
+\usepackage{graphicx}
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage{authblk}
+\usepackage{caption}
+\usepackage{fancyvrb}
+\usepackage{relsize}
+
+\title{This is the title of the project report}
+\author[1]{First author}
+\author[2]{Second author}
+\author[1,2]{Third author}
+\author[1,2]{Fourth author}
+\affil[1]{Affiliation of first author}
+\affil[2]{Other affiliation}
+
+\date{\today}
+
+\renewcommand\thesubsection{}
+
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+  TODO: This is the abstract of the proposal report: in this document we
+  provide a template with the required sections.  Additional guidelines are
+  provided for selected sections below. The project report should be in the
+  range of \textbf{8-10 pages} including graphs and references, and must
+  contain the following information:
+  \begin{itemize}
+    \item Abstract
+    \item Background and significance
+    \item Scientific goals and objectives
+    \item Algorithms and code parallelization (including memory requirements)
+    \item Representative performance benchmarks and scaling analysis
+      (strong and weak scaling)
+    \item Resource justification
+  \end{itemize}
+  The report should be typeset using \LaTeX{}\cite{lamport1993a}.  You can use
+  this template as a baseline.
+\end{abstract}
+
+\section{Background and Significance}
+
+  TODO: In this section, describe the problem you are going to solve, the
+  research methods, its significance and a comparison with existing work.
+
+
+\section{Scientific Goals and Objectives}
+
+  TODO: What are your scientific goals and objective with this project?
+  Justify the need for compute hours on a HPC architecture.
+
+
+\section{Algorithms and Code Parallelization}
+
+  TODO: Please insert in this section a description of the methods and
+  algorithms of all the codes adopted for your computational study, justifying
+  your choices and describing possible alternatives. Furthermore, please
+  specify whether you are the main developer, a contributing developer or a
+  user of the code. You should include a brief list of the main scientific
+  libraries employed (if any) and a description of the parallelization
+  approach, with specific memory and I/O requirements as well.
+
+  Report if the code employs OpenMP shared memory parallelism, MPI distributed
+  parallelism or hybrid MPI/OpenMP, which type of MPI communication has been
+  implemented and if it makes use of shared memory parallelism, GPU
+  accelerators or OpenACC/CUDA (optional), with specific memory and I/O
+  requirements as well.
+
+  \subsection{Validation, Verification}
+
+  Please explain how to validate your method against experiments or other
+  established reference data and verify the numerical consistency of your
+  model, citing the relevant references to peer reviewed papers.
+
+
+\section{Performance Benchmarks and Scaling Analysis}
+
+  TODO: Please report in this section the results of the mandatory performance
+  analysis of your code (roofline analysis) as well as strong and weak scaling
+  tests.  You should report scaling data (tables) and plots for the code of
+  your project. 
+
+  You should select meaningful job sizes to simulate the representative
+  systems, compatible with reasonably short runtimes: the lowest number of
+  nodes is determined in general by memory and wall time constraints, while the
+  highest node counts should let you identify the job size at which you reach
+  $\sim 50\%$ of the parallel efficiency with respect to ideal scaling.
+
+  You are also requested to provide some key figures of the jobs that you 
+  ran during the development of the project:
+  \begin{itemize}
+    \item the wall clock time of your typical submission in hours
+    \item the expected job size of your typical job in number of nodes
+    \item the memory per node requested by the typical job in GB
+    \item the maximum number of input files read by a job
+    \item the maximum number of output files written by a job
+    \item the library used for I/O (if any)
+  \end{itemize} 
+  Examples for I/O libraries are: HDF5, NetCDF or MPIIO.
+
+  Table~\ref{table:workflow_parameters} provides a template of how these 
+  figures should be presented in the report. 
+  The given example describes two test cases used for the development presented in two
+  columns.  Note that the given numbers are dummy data, the typical wall clock
+  time for your tests in this project should be less than what is shown here.
+  \begin{table}[H]
+    \begin{center}
+      \begin{tabular}{@{}*3{r}@{}}
+        \hline \hline
+        & Test case A & Test case B \\
+        \hline \hline
+        Typical wall clock time (hours) & 6 & 12 \\
+        Typical job size (nodes) & 16 & 16 \\
+        Memory per node (GB) & 12 & 18 \\
+        Maximum number of input files in a job & 4 & 6 \\
+        Maximum number of output files in a job & 8 & 14 \\
+        Library used for I/O & HDF5 & HDF5 \\
+        \hline \hline
+      \end{tabular}
+    \end{center}
+    \caption{Workflow parameters of the two test cases used during project
+    development.}
+    \label{table:workflow_parameters}
+  \end{table}
+
+
+\section{Resource Justification}
+
+  TODO: The request of the annual amount of node hours should be clearly linked
+  with the node hours used by the representative benchmarks: the number of node
+  hours consumed by a simulation is computed multiplying the number of nodes by
+  the wall time expressed in hours for a typical production run.
+
+  For example, the optimal job size of
+  the representative benchmark is 16 nodes.  Assuming the corresponding wall time
+  for a production run is 141~s, which is then equivalent to $\sim
+  0.6267$ node hours, as a result of the following product:
+  \[
+  0.6267\text{ node hours} = 16\text{ nodes}\times\frac{141 s}{3600 \frac{s}{\text{hour}}}
+  \]
+  The benchmark is short and represents in general a small number of iterations
+  (cycles, timesteps or an equivalent measure), while in a real production
+  simulation we will need to extend it.
+
+  Therefore we will estimate how many iterations should be necessary to
+  complete a simulation in production. Furthermore, your project might contain
+  multiple runs to complete a task, each of them requiring several sets of
+  simulations to complete.  The total resource request will sum the
+  corresponding node hours obtained multiplying all the factors reported in
+  Table~\ref{table:resource_request}. 
+  \begin{table}[H]
+    \begin{center}
+      \begin{tabular}{@{}*3{r}@{}}
+        \hline \hline
+        & Test case A & Test case B \\
+        \hline \hline
+        Simulations per task & 2 & 4 \\
+        Iterations per simulation & 5000 & 10000 \\
+        node hours per iteration & 0.6267 & 0.6267 \\
+        Total node hours & 6267 & 25068 \\
+        \hline \hline
+      \end{tabular}
+    \end{center}
+    \caption{Justification of the resource request}
+    \label{table:resource_request}
+  \end{table}
+  The small example above will request a total of 31335 node hours to cover
+  both test cases in the proposal to the supercomputing center.  Note that the
+  simulations listed in 
+  Table~\ref{table:resource_request} must usually be motivated by a project
+  plan that accommodates the proposal.  We will omit this section for the
+  purpose of the CS205 project.
+
+
+  % you may use thebibliography shown here or use a bibliography file
+  % 'main.bib' as in the commented example below.
+  \begin{thebibliography}{9}
+    \bibitem{lamport1993a} 
+      Leslie Lamport. 
+      \textit{\LaTeX{}: a document preparation system}.
+      Addison-Wesley, Reading, Massachusetts, 1993.
+  \end{thebibliography}
+
+  % \section*{References}
+  % \bibliographystyle{abbrv}
+  % \bibliography{main} % the file main.bib must exist in your document folder.
+
+\end{document}
+
+% vim-local: LaTeX
