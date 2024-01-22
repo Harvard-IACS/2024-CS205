@@ -1,5 +1,5 @@
 Title: High Performance Computing for Science and Engineering
-Date: 2022-12-09
+Date: 2024-01-21
 save_as: index.html
 
 With manufacturing processes reaching the limits in terms of transistor density
@@ -23,25 +23,27 @@ The preferred way to reach the teaching staff is described in the [Teaching
 Staff Mailing List](./#staff-mailinglist) section below.
 
 
-### <a id="instructor"></a><a class="anchor-link" href="#instructor">Instructor</a>
+### <a id="instructor"></a><a class="anchor-link" href="#instructor">Instructors</a>
 
-* Fabian Wermelinger (<fabianw@seas.harvard.edu>)
-* Office: Pierce Hall 211
+* Boris Kozinsky (<bkoz@g.harvard.edu>)
+* Office:
 * Office Hours:
-    - Monday 11:15am - 12:15pm Pierce Hall 211
-    - Thursday 12:45pm - 1:45pm SEC 1.312
-* Laboratory: Thursday (L006) 5:15pm-6:30pm SEC 2.122/3
 
+* Ignacio Becker Troncoso (<iebecker@g.harvard.edu>)
+* Office: SEC 1.312-05
+* Office Hours:
 
 ### <a id="tf"></a><a class="anchor-link" href="#tf">Teaching Fellows</a>
 
 | Fellow                      | Email                                  | Office Hours | Lab Section |
 |:----------------------------|:---------------------------------------|:-------------|:------------|
-| Albert Ge                   | <albertge@g.harvard.edu>               | Mon<br>5:15pm-6:15pm SEC 2.123  | Mon (L002)<br>3:34pm-5:00pm SEC 2.123    |
-| Alex Rodriguez              | <alex_rodriguez@college.harvard.edu>   | Wed<br>3:45pm-4:45pm MD 123  | Mon (L001)<br>9:45am-11:00am SEC 1.319   |
-| Emil Ghitman Gilkes         | <emil_ghitmangilkes@g.harvard.edu>     | Fri<br>12:45pm-1:45pm SEC 1.316 | Wed (L004)<br>9:45am-11:00am SEC 2.122/3 |
-| Matheus Farias              | <matheusfarias@g.harvard.edu>          | Thu<br>2:15pm-3:15pm SEC 1.316  | Tue (L003)<br>12:45pm-2:00pm SEC 3.302/3 |
-| Meghna Banerjee             | <meghna_banerjee@g.harvard.edu>        | Tue<br>5:15pm-6:15pm SEC 6.412  | Wed (L005)<br>5:15pm-6:30pm SEC 1.316    |
+| Yixian Gan                   | <ygan@g.harvard.edu>               | TBD  | TBD    |
+| Tanner Marsh              | <tam997@g.harvard.edu>   | TBD  | TBD  |
+| Vlad Cainamisir         | <vcainamisir@college.harvard.edu>     | TBD | TBD |
+| Hongyi Sun              | <hongyi_sun@fas.harvard.edu>          | TBD  | TBD |
+| Aadit Saluja             | <aaditsaluja@college.harvard.edu>        | TBD  | TBD    |
+| Sree Harsha Tanneru             | <sreeharshatanneru@g.harvard.edu>        | TBD  | TBD    |
+| Matthew Shum             | <mshum@college.harvard.edu>        | TBD  | TBD    |
 
 SEC is the Science and Engineering Complex in Allston and MD is the
 MaxwellDworkin building in Cambridge.
