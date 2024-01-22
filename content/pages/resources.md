@@ -17,7 +17,7 @@ Date: 2021-12-30
 * [Unix Tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Command Line Reference Cheat Sheet](https://files.fosswire.com/2007/08/fwunixref.pdf)
 * [Bash scripting Cheat Sheet](https://devhints.io/bash)
-* [Learn $\mathrm{\LaTeX}$ in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+* [Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 * [Git Reference](https://git-scm.com/docs)
 * [Git Book](http://git-scm.com/book/en/v2) (recommended reading)
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
