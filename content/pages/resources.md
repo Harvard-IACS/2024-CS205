@@ -7,9 +7,9 @@ Date: 2021-12-30
 <!-- hack to include week01.zip in website for shareable link -->
 <!-- []({attach}./week01.zip) -->
 
-## <a id="fasrc"></a><a class="anchor-link" href="#fasrc">FAS OnDemand User Guide</a>
+## <a id="fasrc"></a><a class="anchor-link" href="#fasrc">HUIT Open OnDemand</a>
 
-* [User guide for compute cluster](https://fasrc.github.io/fas-ondemand-user-guide/)
+* [User guide](https://harvard-atg.github.io/huit-ondemand-user-docs/)
 
 ## <a id="general"></a><a class="anchor-link" href="#general">General Useful References</a>
 
