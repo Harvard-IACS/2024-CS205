@@ -19,8 +19,7 @@ with focus on shared and distributed memory programming.
 
 ## <a id="staff"></a><a class="anchor-link" href="#staff">Teaching Staff</a>
 
-The preferred way to reach the teaching staff is described in the [Teaching
-Staff Mailing List](./#staff-mailinglist) section below.
+<!--The preferred way to reach the teaching staff is described in the [Teaching Staff Mailing List](./#staff-mailinglist) section below.-->
 
 
 ### <a id="instructor"></a><a class="anchor-link" href="#instructor">Instructors</a>
