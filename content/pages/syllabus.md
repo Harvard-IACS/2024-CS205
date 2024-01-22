@@ -19,11 +19,6 @@ National Labs.  The class will discuss methods for performance analysis on the
 node level and methods for parallel scaling analysis on both node and cluster
 levels.
 
-<!--A short `pdf` version of this syllabus can be [downloaded
-here]({attach}./cs205_syllabus.pdf).-->
-
-<!-- TODO: Check file -->
-
 ### <a id="lobjective"></a><a class="anchor-link" href="#lobjective">Learning Objective</a>
 
 After completing this class, the student is capable of identifying various forms
@@ -45,8 +40,7 @@ with Linux command line tools, `ssh`, `git` and tools to edit source code is
 assumed. Prerequisite classes include CS50, CS61, CS107, CS161 or AC207.
 <!-- TODO: Check c++ primer links  -->
 
-> This class is not suited for first-year students.  CS205 will not teach basics
-> of programming.
+> This class is not suited for first-year students.  CS205 will not teach basics of programming.
 
 
 
@@ -144,9 +138,10 @@ You have **three late days** at your disposal that you are free to use for *late
 The Gradescope submission window is open 2 days past deadline. It is your responsibility not to overdraft your late day budget. **Late submissions are counted by the minute. If you submit 1 minute after the deadline, it will count as one day. If you have consumed all of your late budget: any submission after the assignment deadline will be considered late and charged with a 20 point late penalty.**
 
 Examples:
-- If you deliver hw1 one day late, and hw4 two days late, no discount will be applied.
-- If you deliver hw2 one day late, hw3 one day late, and hw5 one day late, no discount will be applied.
-- If you deliver hw2 one day late, hw3 one day late, and hw5 two day late, 20 points will be deducted from hw5.
+
+* If you deliver hw1 one day late, and hw4 two days late, no discount will be applied.
+* If you deliver hw2 one day late, hw3 one day late, and hw5 one day late, no discount will be applied.
+* If you deliver hw2 one day late, hw3 one day late, and hw5 two day late, 20 points will be deducted from hw5.
 
 If you are experiencing health-related issues, contact the teaching staff as soon as possible. Individual cases can be considered.
 
