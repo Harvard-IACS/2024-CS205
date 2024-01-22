@@ -4,7 +4,7 @@ AUTHOR = ''
 
 SEMESTER = ''
 
-YEAR = ''
+YEAR = '2024'
 
 SITEURL = ''
 
@@ -15,7 +15,7 @@ COLOR = '#EFEFEF'
 # Define Navbar links
 # ex. ('Link Name', 'URL')
 # MENUITEMS = [
-#     ('Schedule', 'pages/schedule.html'),
+# #     ('Schedule', 'pages/schedule.html'),
 #     ('Course Flow', 'pages/coursework.html'),
 #     ('Resources', 'pages/resources.html'),
 #     ('C/C++ Primer', 'pages/cpp_primer.html'),
@@ -25,7 +25,8 @@ MENUITEMS = [
     ('Schedule', 'pages/schedule_static.html'),
     ('Project', 'pages/project.html'),
     ('Resources', 'pages/resources.html'),
-    # ('Topic index', 'pages/topic_index.html'),
+    ('C/C++ Primer', 'pages/cpp_primer.html'),
+
 ]
 
 # Uncomment following line if you want document-relative URLs when developing
