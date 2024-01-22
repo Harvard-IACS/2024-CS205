@@ -21,6 +21,7 @@ levels.
 
 <!--A short `pdf` version of this syllabus can be [downloaded
 here]({attach}./cs205_syllabus.pdf).-->
+
 <!-- TODO: Check file -->
 
 ### <a id="lobjective"></a><a class="anchor-link" href="#lobjective">Learning Objective</a>
