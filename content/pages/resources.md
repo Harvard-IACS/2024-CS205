@@ -14,7 +14,7 @@ Date: 2021-12-30
 ## <a id="general"></a><a class="anchor-link" href="#general">General Useful References</a>
 
 * [Linux Productivity Tools (ORNL)]({attach}./linux_productivity_tools.pdf)
-* [Unix Tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+<!-- * [Unix Tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/) -->
 * [Command Line Reference Cheat Sheet](https://files.fosswire.com/2007/08/fwunixref.pdf)
 * [Bash scripting Cheat Sheet](https://devhints.io/bash)
 * [Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
@@ -44,7 +44,7 @@ Date: 2021-12-30
 ## <a id="openmp"></a><a class="anchor-link" href="#openmp">OpenMP</a>
 
 * [OpenMP Specification](https://www.openmp.org/specifications/)
-* [OpenMP Tutorial (LLNL)](https://hpc.llnl.gov/tuts/openMP/)
+* [OpenMP Tutorial (LLNL)](https://hpc-tutorials.llnl.gov/openmp/)
 * [OpenMP Examples](https://www.openmp.org/wp-content/uploads/openmp-examples-5.1.pdf)
 
 
