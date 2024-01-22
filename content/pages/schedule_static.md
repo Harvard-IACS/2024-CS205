@@ -45,7 +45,7 @@ on the right.  All due events **with a given date are due on 09:59pm that day**.
 <tbody>
 <tr style="font-size:100%">
 <td><strong style="color:orange">1(4)</strong></td>
-<td><strong><em>Lecture 1:</em></strong> <em>2024-01-22</em>
+<td><strong><em>Lecture 1:</em></strong> <em>2024-01-23</em>
 <br>
 <ul style="font-size:100%">
 <li>Class introduction/organization</li>
@@ -59,7 +59,7 @@ on the right.  All due events **with a given date are due on 09:59pm that day**.
 </ul>
 </td>
 <td>
-<strong><em>Lecture 2:</em></strong> <em>2024-01-24</em>
+<strong><em>Lecture 2:</em></strong> <em>2024-01-25</em>
 <br>
 <ul style="font-size:100%">
 <li>Computer architecture</li>
@@ -82,13 +82,8 @@ your schedule
 </td>
 <td style="background-color: rgba(154, 205, 50, 0.1);">
 <strong><em>Note:</em></strong>
-<p
-style="margin-top:0;margin-bottom:0;font-size:100%">
-The "<strong><em>Reading</em></strong>"
-assignments are relevant for the lecture and due <strong><em>on the day
-    of the lecture!</em></strong>
-Questions may be asked to
-individual students.
+<p style="margin-top:0;margin-bottom:0;font-size:100%">
+    The "<strong><em>Reading</em></strong>" assignments are relevant for the lecture and due <strong><em>on the day of the lecture!</em></strong>
 </p>
 <ol style="font-size:100%">
 <li><span style="color:tomato">
@@ -103,9 +98,9 @@ individual students.
 </tr>
 
 
-<!--<tr style="font-size:100%">
+<tr style="font-size:100%">
 <td><strong style="color:orange">2(5)</strong></td>
-<td><strong><em>Lecture 3:</em></strong> <em>2023-01-31</em>
+<td><strong><em>Lecture 3:</em></strong> <em>2024-01-30</em>
 <br>
 <ul style="font-size:100%">
 <li>Cache memories: why are they there, how they work</li>
@@ -115,14 +110,13 @@ individual students.
 <li>Memory access patterns (differences row-major / column-major)</li>
 </ul>
 </td>
-<td><strong><em>Lecture 4:</em></strong> <em>2023-02-02</em>
+<td><strong><em>Lecture 4:</em></strong> <em>2024-02-01</em>
 <br>
 <ul style="font-size:100%">
 <li>Shared memory introduction</li>
 <li>Examples of concurrency and concurrent memory access</li>
 <li>Why is shared memory programming
     hard: what is a race condition and why/how does it happen</li>
-<li><strong><em style="color:tomato">Quiz 1</em></strong></li>
 </ul>
 </td>
 <td style="background-color: rgba(101, 123, 131, 0.1);">
@@ -135,11 +129,19 @@ tutorials.</p>
 <td>
 <br>
 <ol style="font-size:100%">
-<li><span style="color:yellowgreen">HW1
-        release<br>(2023-01-31)</span></li>
+<li>
+    <span style="color:yellowgreen">
+        Quiz 1<br>(2024-02-02)
+    </span>
+</li>
+<li>
+    <span style="color:yellowgreen">
+        HW1 release<br>(2024-01-30)
+    </span>
+</li>
 </ol>
 </td>
-</tr>-->
+</tr>
 
 
 <!--<tr style="font-size:100%">
@@ -180,7 +182,6 @@ compilers</li>
 </ol>
 </td>
 </tr>-->
-
 
 
 <!--<tr style="font-size:100%">
@@ -224,7 +225,6 @@ clauses.
 </ol>
 </td>
 </tr>-->
-
 
 
 <!--
@@ -274,6 +274,7 @@ False sharing and cache thrashing.
 <strong style="color:orange">6(9)</strong>
 </td>-->
 
+
 <!--
 <td><strong><em>Lecture 11:</em></strong> <em>2023-02-28</em>
 <br>
@@ -299,7 +300,6 @@ False sharing and cache thrashing.
 <td>
 <strong style="color:orange">7(10)</strong>
 </td>-->
-
 
 
 <!--<td>
@@ -344,6 +344,7 @@ MPI reductions and scans.
 </ol>
 </td>
 </tr>-->
+
 
 <!--<tr style="font-size:100%">
     <td>
@@ -392,6 +393,7 @@ MPI reductions and scans.
 <td>
 <strong style="color:orange">10(13)</strong>
 </td>-->
+
 
 <!--<td>
 <strong><em>Lecture 15:</em></strong> <em>2023-03-28</em>
@@ -466,6 +468,7 @@ libraries.  Examples for BLAS and LAPACK.
 </td>
 </tr>-->
 
+
 <!--<tr style="font-size:100%">
 <td>
 <strong style="color:orange">12(15)</strong>
@@ -488,6 +491,7 @@ libraries.  Examples for BLAS and LAPACK.
 </ol>
 </td>
 </tr>-->
+
 
 <!--<tr style="font-size:100%">
 <td>
@@ -569,6 +573,7 @@ learning how to debug code.
 </td>
 </tr>-->
 
+
 <!--<tr style="font-size:100%">
 <td>
 <strong style="color:orange">15(18)</strong>
@@ -606,6 +611,7 @@ learning how to debug code.
 </ol>
 </td>
 </tr>-->
+
 
 <!--<tr style="font-size:100%">
 <td>
