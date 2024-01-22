@@ -98,7 +98,7 @@ The course contains six main components:
 
 ### <a id="homework"></a><a class="anchor-link" href="#homework">Homework</a>
 
-There are **5 homeworks** where each contributes equally to the final grade. The homework is focused on the topics discussed in class and involves programming and theoretical work. Programming tasks may be combined with applications such as particle methods or simple grid based finite difference solvers. Familiarity with such methods is not required and explanations provided in the homework statements should be sufficient to solve the tasks. Coding exercises may be implemented in `C` or `C++`. Note that some coding exercises will include skeleton codes which are written in `C++`. It is expected that answers for assignments involving written or theoretical work are typeset in a LaTeX document. The teaching staff is determined to return solutions and graded assignments with feedback withing one week. It is _your responsibility_ to check the consistency between your graded work and the assignment solution. You have the option to address possible inconsistencies in office hours or request a regrading for the assignment (see the <a href="./syllabus.html#homework-regrade"> homework grading inconsistencies </a> section below). Homework will be released on the [CS205 class repository](https://code.harvard.edu/CS205/main).
+There are **5 homeworks** where each contributes equally to the final grade. The homework is focused on the topics discussed in class and involves programming and theoretical work. Programming tasks may be combined with applications such as particle methods or simple grid based finite difference solvers. Familiarity with such methods is not required and explanations provided in the homework statements should be sufficient to solve the tasks. Coding exercises may be implemented in `C` or `C++`. Note that some coding exercises will include skeleton codes which are written in `C++`. It is expected that answers for assignments involving written or theoretical work are typeset in a LaTeX document. The teaching staff is determined to return solutions and graded assignments with feedback withing one week. It is _your responsibility_ to check the consistency between your graded work and the assignment solution. You have the option to address possible inconsistencies in office hours or request a regrading for the assignment (see the <a href="./syllabus.html#homework-regrade"> homework grading inconsistencies </a> section below). Homework will be released on the [CS205 class repository](https://code.harvard.edu/CS205/main_2024).
 
 > Some of the homework problems must be solved using a remote compute cluster.
 > Please keep in mind that when the cluster is under high load with many queued jobs, your submitted job(s) will not execute right away.  Depending on the cluster load, your job may execute only in a couple of hours (resources are limited).  *Make sure you plan ahead.*
@@ -139,15 +139,15 @@ The Gradescope submission window is open 2 days past deadline. It is your respon
 
 Examples:
 
-* If you deliver hw1 one day late, and hw4 two days late, no discount will be applied.
-* If you deliver hw2 one day late, hw3 one day late, and hw5 one day late, no discount will be applied.
-* If you deliver hw2 one day late, hw3 one day late, and hw5 two day late, 20 points will be deducted from hw5.
+* If you submit hw1 one day late, and hw4 two days late, no penalty will be applied.
+* If you submit hw2 one day late, hw3 one day late, and hw5 one day late, no penalty will be applied.
+* If you submit hw2 one day late, hw3 one day late, and hw5 two days late, 20 points will be deducted from hw5.
 
 If you are experiencing health-related issues, contact the teaching staff as soon as possible. Individual cases can be considered.
 
-> Most assignments in this class are due within a few weeks.  It is your responsibility to plan your work ahead and submit on time.
+> Most assignments in this class are due within two weeks.  It is your responsibility to plan your work ahead and submit on time.
 >
->**Please note:** the job scheduler on the compute cluster can become busy if there is a large volume of job submissions (i.e. all students try to submit their jobs 3 hours before deadline).  In such situations, a submitted job may not immediately execute.  _This is normal on shared compute resources, **do not submit your work in the last minute!**_
+>**Please note:** the job scheduler on the compute cluster can become busy if there is a large volume of job submissions (i.e. all students try to submit their jobs 3 hours before deadline).  In such situations, a submitted job may not immediately execute.  _This is normal on shared compute resources, **do not leave your work until the last minute!**_
 
 
 #### <a id="homework-regrade"></a><a class="anchor-link" href="#homework-regrade">Homework Grading Errors</a>
@@ -191,7 +191,7 @@ There will be **6 labs** in total. See the <a href="./schedule_static.html">sche
 #### <a id="lab-submission"></a><a class="anchor-link" href="#lab-submission">Lab Submission</a>
 
 
-Lab exercises must be submitted on[Gradescope](https://canvas.harvard.edu/courses/128330/external_tools/711577?display=borderless) before the due date.
+Lab exercises must be submitted on [Gradescope](https://canvas.harvard.edu/courses/128330/external_tools/711577?display=borderless) before the due date.
 Submissions must be uploaded in a `zip` archive of the corresponding lab directory (completed with your solutions) which is released through the [CS205 classrepository](https://code.harvard.edu/CS205/main).  **Submissions must only contain source code and text files. Object files and other binary data generated by compilers must be cleaned out before submission.**  Other binary files that were initially included in the directory can be left in place.  You are not required to write a LaTeX report for labs.  Answers can be provided in markdown files (see problem statement).  Submissions are similar to homework, see the <a href="./syllabus.html#homework-submission">homework submission</a> section for an example.
 
 The lab due date is indicated on the problem sheet and displayed in the <a href="./schedule_static.html">schedule</a>.  Lab  submissions will be graded on:
