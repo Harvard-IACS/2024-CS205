@@ -25,11 +25,14 @@ Staff Mailing List](./#staff-mailinglist) section below.
 
 ### <a id="instructor"></a><a class="anchor-link" href="#instructor">Instructors</a>
 
-* Boris Kozinsky (<bkoz@g.harvard.edu>)
+Boris Kozinsky (<bkoz@g.harvard.edu>)
+
 * Office:
 * Office Hours:
 
-* Ignacio Becker Troncoso (<iebecker@g.harvard.edu>)
+
+Ignacio Becker Troncoso (<iebecker@g.harvard.edu>)
+
 * Office: SEC 1.312-05
 * Office Hours:
 
@@ -84,7 +87,7 @@ git clone git@code.harvard.edu:CS205/main.git
   You can request  membership in the CS205 organization by sending an email to `cs205-staff@g.harvard.edu` (using your `.harvard.edu` email).  You  must include your [NetID](https://harvard.service-now.com/ithelp?id=kb_article&sys_id=507aca5a1b653700efd8a79b2d4bcb59) in the body of your email, which is also your <https://code.harvard.edu>
   username (something similar to `abc123`).
 
-### <a id="class-forum"></a><a class="anchor-link" href="#class-forum">Class Discussion Forum</a>
+### <a id="class-forum"></a><a class="anchor-link" href="#class-forum">Class Discussion</a>
 
 We will use the Ed Discussion forum on our Canvas page as our main communication platform. Questions regarding homework, labs or lecture material must be posted on this forum and you are encouraged to reply to questions if you know the answer or you can share a useful contribution.
 <!-- TODO: ADD SLACK -->
