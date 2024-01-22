@@ -27,7 +27,7 @@ Staff Mailing List](./#staff-mailinglist) section below.
 
 Boris Kozinsky (<bkoz@g.harvard.edu>)
 <!-- TODO: Fill  -->
-* Office:
+* Office: Pierce Hall 030
 * Office Hours:
 
 
@@ -62,12 +62,12 @@ MaxwellDworkin building in Cambridge.
 All lectures are of 75 minutes duration. Time is given in Eastern Standard Time (Boston).
 
 <!-- TODO: Attendance mandatory???-->
-> Lecture attendance is **mandatory**:
+> Lecture attendance is **expected**:
 >
 > |              | Time           | Room      |
 > |--------------|----------------|-----------|
-> | **Tuesday**  | 2:15 AM - 3:30 PM | SEC 1.321 |
-> | **Thursday** | 2:15 AM - 3:30 PM | SEC 1.321 |
+> | **Tuesday**  | 2:15 PM - 3:30 PM | SEC 1.321 |
+> | **Thursday** | 2:15 PM - 3:30 PM | SEC 1.321 |
 
 
 ## <a id="important"></a><a class="anchor-link" href="#important">Important Information</a>
