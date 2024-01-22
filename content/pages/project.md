@@ -237,11 +237,11 @@ The final project deliverables are:
 The final project report is written in the form of a proposal that can be
 submitted to a high performance computing center to request compute hours for a
 (research) project on one of their supercomputers. The report must be typeset
-using [ $\mathrm{\LaTeX}$ ](https://en.wikipedia.org/wiki/LaTeX).  A template for
+using [LaTeX](https://en.wikipedia.org/wiki/LaTeX).  A template for
 a final report with additional instructions is given in this [`pdf`
 file]({attach}./cs205_project_report_template.pdf). The corresponding `tex`
 file can be [downloaded here]({attach}./cs205_project_report_template.tex).
-A short $\mathrm{\LaTeX}$ tutorial can be found
+A short LaTeX tutorial can be found
 [here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).  Note
 that collaborating with `tex` files that are tracked in a `git` repository can
 be troublesome due to different formatting settings of the individual
