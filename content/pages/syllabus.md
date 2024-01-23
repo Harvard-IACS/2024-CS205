@@ -163,7 +163,7 @@ Please see the <a href="./project.html">project</a> section for more details.
 
 ### <a id="quizzes"></a><a class="anchor-link" href="#quizzes">Quizzes</a>
 
-There are **4 quizzes** which are graded. Each quiz addresses topics _from the lecture material_. Quizzes are open book/`www` and include multiple choice questions with at most back of the envelope calculations.  Quizzes take between 15 to 20 minutes (10-15 questions) and are hosted on Canvas.
+There are **4 quizzes** which are graded. Each quiz addresses topics _from the lecture material_. Quizzes are open book/`www` and include multiple choice questions with at most back of the envelope calculations.  Quizzes take between 15 to 20 minutes (10-15 questions) and are hosted on Canvas. You cannot use generative models, such as ChatGPT.
 
 > * **Quiz 1: 02-02-2024**, Lecture 1 to 3
 > * **Quiz 2: TBD**, Lecture 4 to 7
