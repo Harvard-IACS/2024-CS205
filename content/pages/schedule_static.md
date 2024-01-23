@@ -69,7 +69,9 @@ on the right.  All due events **with a given date are due on 09:59pm that day**.
 <li>Introduction to compute cluster:
     access, job submission
 </li>
-<li><strong><em>Reading:</em></strong> Leiserson paper</li>
+<li>
+    <strong><em>Reading:</em></strong> <a href="https://canvas.harvard.edu/files/19265061/download?download_frd=1" target="_blank">Leiserson paper</a>
+</li>
 </ul>
 </td>
 <td style="background-color: rgba(101, 123, 131, 0.1);">
