@@ -74,8 +74,7 @@ All lectures are of 75 minutes duration. Time is given in Eastern Standard Time 
 * **Canvas:** Is used for posting grades and other class
   sensitive content: <https://canvas.harvard.edu/courses/128330>
 * **Gradescope:** Is used for homework and lab submissions: <https://canvas.harvard.edu/courses/128330/external_tools/711577?display=borderless>
-* **Class Git repository:** The handouts in CS205 are provided through the `main` repository hosted in the CS205 organization at
-  <https://code.harvard.edu/CS205/main>.  You can clone this repository once you have joined the CS205 organization
+* **Class Git repository:** The handouts in CS205 are provided through the `main` repository hosted in the CS205 organization at <https://code.harvard.edu/CS205/main_2024>.  You can clone this repository once you have joined the CS205 organization
 
 ```bash
 git clone git@code.harvard.edu:CS205/main.git
@@ -84,7 +83,7 @@ git clone git@code.harvard.edu:CS205/main.git
   Updates to the `main` repository are posted on the <a href="./#class-mailinglist">class mailing list</a>. Your Harvard ID is required to login to <https://code.harvard.edu>.
 <!-- TODO: Ask them to submit? Is the cs205 email ready?   Change it? Google form to request membership.-->
 
-  You can request  membership in the CS205 organization by filling out [this form](https://this_link)(using your `.harvard.edu` email). You  must include your [NetID](https://harvard.service-now.com/ithelp?id=kb_article&sys_id=507aca5a1b653700efd8a79b2d4bcb59), which is also your <https://code.harvard.edu> username (something similar to `abc123`).
+  You can request  membership in the CS205 organization by filling out [this form](https://canvas.harvard.edu/courses/128330/assignments/796230)(using your `.harvard.edu` email). You  must include your [NetID](https://harvard.service-now.com/ithelp?id=kb_article&sys_id=507aca5a1b653700efd8a79b2d4bcb59), which is also your <https://code.harvard.edu> username (something similar to `abc123`).
 
 ### <a id="class-forum"></a><a class="anchor-link" href="#class-forum">Class Discussion</a>
 
