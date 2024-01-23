@@ -52,8 +52,8 @@ MaxwellDworkin building in Cambridge.
 
 > Please see the following files in the class Git repository for more details:
 >
-> * **Office Hours:** <https://code.harvard.edu/CS205/main/blob/master/office_hours.xls>
-> * **Labs:** <https://code.harvard.edu/CS205/main/blob/master/lab_groups.xls>
+> * **Office Hours:** <https://code.harvard.edu/CS205/main_2024/blob/master/office_hours.xls>
+> * **Labs:** <https://code.harvard.edu/CS205/main_2024/blob/master/lab_groups.xls>
 <!-- TODO: Fill xls files.  -->
 <!-- TODO: Update calendars on Canvas  -->
 ## <a id="hours"></a><a class="anchor-link" href="#hours">Lecture Hours</a>
@@ -81,38 +81,9 @@ git clone git@code.harvard.edu:CS205/main.git
 ```
 
   Updates to the `main` repository are posted on the <a href="./#class-mailinglist">class mailing list</a>. Your Harvard ID is required to login to <https://code.harvard.edu>.
-<!-- TODO: Ask them to submit? Is the cs205 email ready?   Change it? Google form to request membership.-->
 
   You can request  membership in the CS205 organization by filling out [this form](https://canvas.harvard.edu/courses/128330/assignments/796230)(using your `.harvard.edu` email). You  must include your [NetID](https://harvard.service-now.com/ithelp?id=kb_article&sys_id=507aca5a1b653700efd8a79b2d4bcb59), which is also your <https://code.harvard.edu> username (something similar to `abc123`).
 
 ### <a id="class-forum"></a><a class="anchor-link" href="#class-forum">Class Discussion</a>
 
 We will use the Ed Discussion forum on our Canvas page as our main communication platform. Questions regarding homework, labs or lecture material must be posted on this forum and you are encouraged to reply to questions if you know the answer or you can share a useful contribution. A Slack channel will also be provided. It can be accessed on the Slack option on the left menu of Canvas.
-
-<!--### <a id="class-mailinglist"></a><a class="anchor-link" href="#class-mailinglist">Class Mailing List</a>
-
-You can optionally sign up to our class mailing list if you would like to be
-notified whenever there is new class content available in the class Git
-repository.  This is an announcement list only, you cannot post messages to it.
-To sign up, send an email to:
-
-> `cs205+subscribe@g.harvard.edu`  
-> _(subscribe by sending a blank email to this address; **use the email address
-> associated with your HarvardID**)_
-
-*You are required to confirm your subscription.  Simply reply to the confirmation
- email with a blank message to complete the subscription.*-->
-
-
-<!--### <a id="staff-mailinglist"></a><a class="anchor-link" href="#staff-mailinglist">Teaching Staff Mailing List</a>
-
-You can reach the teaching staff directly by sending your email to the following
-mailing list
-
-> `cs205-staff@g.harvard.edu`  
-> _(email sent to this list is only seen by the teaching staff; only email
-> ending with **`.harvard.edu`** is accepted)_
-
-You are not required to register for this mailing list **but only** email
-addresses ending with `.harvard.edu` are accepted (you will receive a rejection
-message otherwise).-->
