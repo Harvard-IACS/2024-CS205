@@ -119,22 +119,18 @@ hw1/
 ├── hw1_solution.pdf       <-- your solution write-up (new file)
 └── README.md
 ```
-Please do not include any LaTeX source code in your submission and
-remove any unrelated meta data such as `.DS_Store` files or `__MACOSX__`
-directories.  *Your submission is your signature.*
+Please do not include any LaTeX source code in your submission and remove any unrelated meta data such as `.DS_Store` files or `__MACOSX__` directories.  *Your submission is your signature.*
 
-The homework due date is indicated on the problem sheet and displayed in the <a
-href="./schedule_static.html">schedule</a>.  Homework submissions will be
-graded on:
+The homework due date is indicated on the problem sheet and displayed in the <a href="./schedule_static.html">schedule</a>.  Homework submissions will be graded on:
 
 1. **Correctness:** your code must compile, run and should produce the correct result. We are not debugging issues when grading submissions.
 2. **Efficiency:**  programs, *especially parallel programs*, can be implemented in various ways. Homework will be graded based on efficient parallel code. Consider two parallel implementations, both generate the correct result but the second implementation performs unnecessary work or redundant communication. The second implementation will not get full marks.
-3. **Presentation:** how you present and interpret your results either in a written report or in your code.  Presentation means structure and readability.  If you present a plot you must have the axes labeled correctly (including correct units).  Difficult sections in code should be commented appropriately such that the teaching staff can understand your   thought process.  Presentation of results also means that unnecessary or superfluous files like editor backup files or object files left over from  previous compilation should not be included in the submission. Results and data must be presented in the written report, *the teaching staff will not search for this data in other data files submitted with the homework*. It is expected that assignment solutions are typeset in a LaTeX document and submitted as a PDF file.
+3. **Presentation:** how you present and interpret your results either in a written report or in your code.  Presentation means structure and readability.  If you present a plot you must have the axes labeled correctly (including correct units).  Difficult sections in code should be commented appropriately such that the teaching staff can understand your thought process.  Presentation of results also means that unnecessary or superfluous files like editor backup files or object files left over from  previous compilation should not be included in the submission. Results and data must be presented in the written report, *the teaching staff will not search for this data in other data files submitted with the homework*. It is expected that assignment solutions are typeset in a LaTeX document and submitted as a PDF file.
 
 #### <a id="homework-late"></a><a class="anchor-link" href="#homework-late">Homework Late Days</a>
 
 You have **three late days** at your disposal that you are free to use for *late submissions*. You can use *at most two consecutive late days* for any homework assignment. _Deadlines on [Gradescope](https://canvas.harvard.edu/courses/128330/external_tools/711577?display=borderless) are enforced**_
-<!-- and late submissions (after consumption of late days) **will not be graded**_. -->
+
 The Gradescope submission window is open 2 days past deadline. It is your responsibility not to overdraft your late day budget. **Late submissions are counted by the minute. If you submit 1 minute after the deadline, it will count as one day. If you have consumed all of your late budget: any submission after the assignment deadline will be considered late and charged with a 20 point late penalty.**
 
 Examples:
@@ -178,7 +174,6 @@ There are **4 quizzes** which are graded. Each quiz addresses topics _from the l
 
 Each quiz will be available on Canvas from 6:00 PM to 23:59 PM on the days previously indicated. *Once the deadline is reached, the quiz will close whether you are taking it or not.* For example, if you start at 23:55 PM, you will only have four minutes to complete the quiz.
 
-<!-- TODO: Change dates -->
 ### <a id="labs"></a><a class="anchor-link" href="#labs">Labs</a>
 
 The purpose of the CS205 labs is to provide extended practice on important topics discussed in the lecture which also support homework assignments. Practice is the key to learn and deepen these topics. The labs exists because time constraints do not allow for this extended practice during the lecture. Labs will be offered on different weekdays and lead by the teaching fellows of CS205.
@@ -192,9 +187,9 @@ There will be **6 labs** in total. See the <a href="./schedule_static.html">sche
 
 
 Lab exercises must be submitted on [Gradescope](https://canvas.harvard.edu/courses/128330/external_tools/711577?display=borderless) before the due date.
-Submissions must be uploaded in a `zip` archive of the corresponding lab directory (completed with your solutions) which is released through the [CS205 classrepository](https://code.harvard.edu/CS205/main).  **Submissions must only contain source code and text files. Object files and other binary data generated by compilers must be cleaned out before submission.**  Other binary files that were initially included in the directory can be left in place.  You are not required to write a LaTeX report for labs.  Answers can be provided in markdown files (see problem statement).  Submissions are similar to homework, see the <a href="./syllabus.html#homework-submission">homework submission</a> section for an example.
+Submissions must be uploaded in a `zip` archive of the corresponding lab directory (completed with your solutions) which is released through the [CS205 classrepository](https://code.harvard.edu/CS205/main_2024).  **Submissions must only contain source code and text files. Object files and other binary data generated by compilers must be cleaned out before submission.**  Other binary files that were initially included in the directory can be left in place.  You are not required to write a LaTeX report for labs.  Answers can be provided in markdown files (see problem statement).  Submissions are similar to homework, see the <a href="./syllabus.html#homework-submission">homework submission</a> section for an example.
 
-The lab due date is indicated on the problem sheet and displayed in the <a href="./schedule_static.html">schedule</a>.  Lab  submissions will be graded on:
+The lab due date is indicated on the problem sheet and displayed in the <a href="./schedule_static.html">schedule</a>.  Lab submissions will be graded on:
 
 1. **Attendance:** your attendance will be recorded by the TF who leads the lab. Be respectful to others by not being late.
 <!--your attendance will be recorded by the TF who leads the lab.
