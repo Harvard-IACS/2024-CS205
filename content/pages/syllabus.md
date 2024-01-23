@@ -172,7 +172,7 @@ There are **4 quizzes** which are graded. Each quiz addresses topics _from the l
 >
 > Please see the class <a href="./schedule_static.html">schedule</a> as well.
 
-Each quiz will be available on Canvas from 4:00 PM to 21:59 PM on the days previously indicated. *Once the deadline is reached, the quiz will close whether you are taking it or not.* For example, if you start at 21:55 PM, you will only have four minutes to complete the quiz.
+Each quiz will be available on Canvas from 4:00 PM to 9:59 PM on the days previously indicated. *Once the deadline is reached, the quiz will close whether you are taking it or not.* For example, if you start at 9:55 PM, you will only have four minutes to complete the quiz.
 
 ### <a id="labs"></a><a class="anchor-link" href="#labs">Labs</a>
 
