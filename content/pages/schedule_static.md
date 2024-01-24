@@ -20,9 +20,9 @@ Date: 2022-12-10
 Due events are indicated in <span style="color:tomato">red</span> in the column
 on the right.  All due events **with a given date are due on 09:59pm that day**.
 
-<!-- Syllabus page 1 {{{2 -->
+<!-- Syllabus page 1 -->
 <table style="width:100%;font-size:100%">
-<!-- Table config {{{3 -->
+<!-- Table config -->
 
 <colgroup>
 <col style="width:8%">
@@ -44,198 +44,182 @@ on the right.  All due events **with a given date are due on 09:59pm that day**.
 
 <tbody>
 <tr style="font-size:100%">
-<td><strong style="color:orange">1(4)</strong></td>
-<td><strong><em>Lecture 1:</em></strong> <em>2024-01-23</em>
-<br>
-<ul style="font-size:100%">
-<li>Class introduction/organization</li>
-<li>Moore's Law</li>
-<li>Transistor density and power limit</li>
-<li>Parallel computing</li>
-<li>Flynn's taxonomy</li>
-<li>Overview of parallelism treated in
-    class: DLP, ILP, TLP, shared memory
-    and distributed memory</li>
-</ul>
-</td>
-<td>
-<strong><em>Lecture 2:</em></strong> <em>2024-01-25</em>
-<br>
-<ul style="font-size:100%">
-<li>Computer architecture</li>
-<li>von Neumann architecture</li>
-<li>Memory pyramid</li>
-<li>Linux process anatomy</li>
-<li>Introduction to compute cluster:
-    access, job submission
-</li>
-<li>
-    <strong><em>Reading:</em></strong> <a href="https://canvas.harvard.edu/files/19265061/download?download_frd=1" target="_blank">Leiserson paper</a>
-</li>
-</ul>
-</td>
-<td style="background-color: rgba(101, 123, 131, 0.1);">
-<strong><em>Sign-up:</em></strong>
-<p
-style="margin-top:0;margin-bottom:0;font-size:100%">
-Select one of the offered lab session days according to
-your schedule
-</p>
-</td>
-<td style="background-color: rgba(154, 205, 50, 0.1);">
-<strong><em>Note:</em></strong>
-<p style="margin-top:0;margin-bottom:0;font-size:100%">
-    The "<strong><em>Reading</em></strong>" assignments are relevant for the lecture and due <strong><em>on the day of the lecture!</em></strong>
-</p>
-<ol style="font-size:100%">
-    <li>
-        <span style="color:tomato">
-            Complete the  <a href="https://canvas.harvard.edu/courses/128330/assignments/796230" target="_blank">CS 205: C++ Survey</a>
-            <br>(2024-01-23)
-        </span>
-    </li>
-    <li>
-        <span style="color:tomato">
-            Lab section preferences
-            submitted on <a
-            href="https://THE.LINK.TO.THE.FORM/"
-            target="_blank">this spreadsheet</a>
-            <br>(2024-01-26)
-        </span>
-    </li>
-</ol>
-</td>
+    <td>
+        <strong style="color:orange">1(4)</strong></td>
+        <td><strong><em>Lecture 1:</em></strong> <em>2024-01-23</em>
+        <br>
+        <ul style="font-size:100%">
+            <li>Class introduction/organization</li>
+            <li>Moore's Law</li>
+            <li>Transistor density and power limit</li>
+            <li>Parallel computing</li>
+            <li>Flynn's taxonomy</li>
+            <li>Overview of parallelism treated in class: DLP, ILP, TLP, shared memory and distributed memory</li>
+        </ul>
+    </td>
+    <td>
+        <strong><em>Lecture 2:</em></strong> <em>2024-01-25</em>
+        <br>
+        <ul style="font-size:100%">
+            <li>Computer architecture</li>
+            <li>von Neumann architecture</li>
+            <li>Memory pyramid</li>
+            <li>Linux process anatomy</li>
+            <li>Introduction to compute cluster: access, job submissions</li>
+            <li>
+                <strong><em>Reading:</em></strong> <a href="https://canvas.harvard.edu/files/19265061/download?download_frd=1" target="_blank">Leiserson paper</a>
+            </li>
+        </ul>
+    </td>
+    <td style="background-color: rgba(101, 123, 131, 0.1);">
+        <strong><em>Sign-up:</em></strong>
+        <p style="margin-top:0;margin-bottom:0;font-size:100%"> Select one of the offered lab session days according to your schedule</p>
+    </td>
+    <td style="background-color: rgba(154, 205, 50, 0.1);">
+        <strong><em>Note:</em></strong>
+        <p style="margin-top:0;margin-bottom:0;font-size:100%">
+            The "<strong><em>Reading</em></strong>" assignments are relevant for the lecture and due <strong><em>on the day of the lecture!</em></strong>
+        </p>
+        <ol style="font-size:100%">
+            <li>
+                <span style="color:tomato">
+                    Complete the  <a href="https://canvas.harvard.edu/courses/128330/assignments/796230" target="_blank">CS 205: C++ Survey</a>
+                    <br>(2024-01-23)
+                </span>
+            </li>
+            <li>
+                <span style="color:tomato">
+                    Lab section preferences submitted on <a href="https://docs.google.com/spreadsheets/d/1w9WryKCfZ--RGjEujGyqUGi36t-x5X79A_v0mTyAI64/edit?usp=sharing" target="_blank">this spreadsheet</a>
+                    <br>(2024-01-26)
+                </span>
+            </li>
+        </ol>
+    </td>
 </tr>
 
 
 <tr style="font-size:100%">
-<td><strong style="color:orange">2(5)</strong></td>
-<td><strong><em>Lecture 3:</em></strong> <em>2024-01-30</em>
-<br>
-<ul style="font-size:100%">
-<li>Cache memories: why are they there, how they work</li>
-<li>Cache lines and the 3 C's</li>
-<li>What is temporal and spatial locality</li>
-<li>Cache associativity: fully, <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span></span></span></span>-way, direct mapped</li>
-<li>Memory access patterns (differences row-major / column-major)</li>
-</ul>
-</td>
-<td><strong><em>Lecture 4:</em></strong> <em>2024-02-01</em>
-<br>
-<ul style="font-size:100%">
-<li>Shared memory introduction</li>
-<li>Examples of concurrency and concurrent memory access</li>
-<li>Why is shared memory programming
-    hard: what is a race condition and why/how does it happen</li>
-</ul>
-</td>
-<td style="background-color: rgba(101, 123, 131, 0.1);">
-<strong><em>Lab 1:</em></strong>
-<p
-style="margin-top:0;margin-bottom:0;font-size:100%">Accessing
-cluster, SLURM, Linux, compiler and C++
-tutorials.</p>
-</td>
-<td>
-<br>
-<ol style="font-size:100%">
-<li>
-    <span style="color:yellowgreen">
-        Quiz 1<br>(2024-02-02)
-    </span>
-</li>
-<li>
-    <span style="color:yellowgreen">
-        HW1 release<br>(2024-01-30)
-    </span>
-</li>
-</ol>
-</td>
+    <td><strong style="color:orange">2(5)</strong></td>
+    <td>
+        <strong><em>Lecture 3:</em></strong> <em>2024-01-30</em>
+        <br>
+        <ul style="font-size:100%">
+            <li>Cache memories: why are they there, how they work</li>
+            <li>Cache lines and the 3 C's</li>
+            <li>What is temporal and spatial locality</li>
+            <li>Cache associativity: fully, <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span aria-hidden="true" class="katex-html"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span></span></span></span>-way, direct mapped</li>
+            <li>Memory access patterns (differences row-major / column-major)</li>
+        </ul>
+    </td>
+    <td>
+        <strong><em>Lecture 4:</em></strong> <em>2024-02-01</em>
+        <br>
+        <ul style="font-size:100%">
+            <li>Shared memory introduction</li>
+            <li>Examples of concurrency and concurrent memory access</li>
+            <li>Why is shared memory programming hard: what is a race condition and why/how does it happen</li>
+        </ul>
+    </td>
+    <td style="background-color: rgba(101, 123, 131, 0.1);">
+        <strong><em>Lab 1:</em></strong>
+        <p style="margin-top:0;margin-bottom:0;font-size:100%">Accessing cluster, SLURM, Linux, compiler and C++ tutorials.</p>
+    </td>
+    <td>
+        <br>
+        <ol style="font-size:100%">
+        <li>
+            <span style="color:tomato">
+                Quiz 1<br>(2024-02-02)
+            </span>
+        </li>
+        <li>
+            <span style="color:yellowgreen">
+                HW1 release<br>(2024-01-30)
+            </span>
+        </li>
+        </ol>
+    </td>
 </tr>
 
 
 <!--<tr style="font-size:100%">
-<td>
-<strong style="color:orange">3(6)</strong>
-</td>
-<td><strong><em>Lecture 5:</em></strong> <em>2023-02-07</em>
-<br>
-<ul style="font-size:100%">
-<li>Memory model for shared memory
-    programming and its implications on
-compilers</li>
-<li>Sequential consistency</li>
-<li>Mutual exclusion / critical sections / locks</li>
-<li>Overview of thread libraries</li>
-</ul>
-</td>
-<td><strong><em>Lecture 6:</em></strong> <em>2023-02-09</em>
-<br>
-<ul style="font-size:100%">
-<li>Introduction to OpenMP: why OpenMP and how to use it in new or existing codes</li>
-<li>OpenMP: fork/join parallel regions</li>
-<li>OpenMP: work sharing constructs</li>
-<li><strong><em>Reading:</em></strong> OpenMP specification 5.1
-    Chap. 1 (until 1.4 inclusive)</li>
-</ul>
-</td>
-<td></td>
-<td>
-<br>
-<ol style="font-size:100%">
-<li><span style="color:tomato">
-        Lab 1
-        due<br>(2023-02-10)</span></li>
-<li><span style="color:tomato">Project
-        team formation
-        due<br>(2023-02-07)</span></li>
-</ol>
-</td>
+    <td>
+        <strong style="color:orange">3(6)</strong>
+    </td>
+    <td>
+        <strong><em>Lecture 5:</em></strong> <em>2024-02-06</em>
+        <br>
+        <ul style="font-size:100%">
+            <li>Memory model for shared memory
+                programming and its implications on
+            compilers</li>
+            <li>Sequential consistency</li>
+            <li>Mutual exclusion / critical sections / locks</li>
+            <li>Overview of thread libraries</li>
+        </ul>
+    </td>
+    <td>
+        <strong><em>Lecture 6:</em></strong> <em>2024-02-08</em>
+        <br>
+        <ul style="font-size:100%">
+            <li>Introduction to OpenMP: why OpenMP and how to use it in new or existing codes</li>
+            <li>OpenMP: fork/join parallel regions</li>
+            <li>OpenMP: work sharing constructs</li>
+            <li><strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main_2024/raw/main/reading/02_OpenMP_spec_v51.pdf" target="_blank">OpenMP specification 5.1 Chap. 1 (until 1.4 inclusive)</a> </li>
+        </ul>
+    </td>
+    <td></td>
+    <td>
+        <br>
+        <ol style="font-size:100%">
+        <li>
+            <span style="color:tomato"> Lab 1 due<br>(2024-02-09)</span>
+        </li>
+        <li>
+            <span style="color:tomato">Project team formation due<br>(2024-02-06)</span>
+        </li>
+        </ol>
+    </td>
+</tr>
+
+
+<tr style="font-size:100%">
+    <td>
+        <strong style="color:orange">4(7)</strong>
+    </td>
+    <td>
+        <strong><em>Lecture 7:</em></strong> <em>2024-02-13</em>
+        <br>
+        <ul style="font-size:100%">
+            <li>OpenMP: data environment</li>
+            <li>OpenMP: synchronization constructs</li>
+            <li>OpenMP: library routines</li>
+            <li>OpenMP: environment variables</li>
+        </ul>
+    </td>
+    <td>
+        <strong><em>Lecture 8:</em></strong> <em>2024-02-15</em>
+        <br>
+        <ul style="font-size:100%">
+            <li>OpenMP: data environment</li>
+            <li>OpenMP: synchronization constructs</li>
+            <li>OpenMP: library routines</li>
+            <li>OpenMP: environment variables</li>
+        </ul>
+    </td>
+    <td style="background-color: rgba(101, 123, 131, 0.1);">
+        <strong><em>Lab 2:</em></strong>
+        <p style="margin-top:0;margin-bottom:0;font-size:100%"> OpenMP locks, critical sections and atomic clauses. </p>
+    </td>
+    <td>
+        <br>
+        <ol style="font-size:100%">
+            <li><span style="color:tomato">Quiz 2</span></li>
+            <li><span style="color:tomato">HW1 due<br>(2024-02-13)</span></li>
+            <li><span style="color:yellowgreen">HW2 release<br>(2024-02-13)</span></li>
+        </ol>
+    </td>
 </tr>-->
-
-
-<!--<tr style="font-size:100%">
-<td>
-<strong style="color:orange">4(7)</strong>
-</td>
-<td><strong><em>Lecture 7:</em></strong> <em>2023-02-14</em>
-<br>
-<ul style="font-size:100%">
-<li>OpenMP: data environment</li>
-<li>OpenMP: synchronization constructs</li>
-<li>OpenMP: library routines</li>
-<li>OpenMP: environment variables</li>
-</ul>
-</td>
-<td><strong><em>Lecture 8:</em></strong> <em>2023-02-16</em>
-<br>
-<ul style="font-size:100%">
-<li>OpenMP: data environment</li>
-<li>OpenMP: synchronization constructs</li>
-<li>OpenMP: library routines</li>
-<li>OpenMP: environment variables</li>
-<li><strong><em style="color:tomato">Quiz 2</em></strong></li>
-</ul>
-</td>
-<td style="background-color: rgba(101, 123, 131, 0.1);">
-<strong><em>Lab 2:</em></strong>
-<p
-style="margin-top:0;margin-bottom:0;font-size:100%">
-OpenMP locks, critical sections and atomic
-clauses.
-</p>
-</td>
-<td>
-<br>
-<ol style="font-size:100%">
-<li><span style="color:tomato">HW1
-        due<br>(2023-02-14)</span></li>
-<li><span style="color:yellowgreen">HW2
-        release<br>(2023-02-14)</span></li>
-</ol>
-</td>
-</tr>-->
-
 
 <!--
 <tr style="font-size:100%">
