@@ -53,13 +53,10 @@ MaxwellDworkin building in Cambridge.
 > * **Office Hours:** TBD
 > * **Labs:** <a href="https://docs.google.com/spreadsheets/d/1w9WryKCfZ--RGjEujGyqUGi36t-x5X79A_v0mTyAI64/edit?usp=sharing" target="_blank">Lab times signup sheet.</a>
 
-<!-- TODO: Fill xls files.  -->
 <!-- TODO: Update calendars on Canvas  -->
 ## <a id="hours"></a><a class="anchor-link" href="#hours">Lecture Hours</a>
 
 All lectures are of 75 minutes duration. Time is given in Eastern Standard Time (Boston).
-
-<!-- TODO: Attendance mandatory???-->
 > Lecture attendance is **expected**:
 >
 > |              | Time           | Room      |
