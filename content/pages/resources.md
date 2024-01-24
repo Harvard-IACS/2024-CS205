@@ -34,7 +34,7 @@ Date: 2021-12-30
 
 ## <a id="c-cpp"></a><a class="anchor-link" href="#c-cpp">C/C++</a>
 
-* [Slides for a `C`/`C++` Primer](https://code.harvard.edu/faw093/c_cpp_primer)
+* [Slides for a `C`/`C++` Primer](https://code.harvard.edu/CS205/c_cpp_primer)
 * [C Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)
 * [C++ Reference](https://en.cppreference.com/w/)
 * [C++ Tutorial](http://www.cplusplus.com/doc/tutorial/)
