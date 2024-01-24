@@ -35,7 +35,7 @@ in the `C`, `C++` or `Fortran` programming languages. Homework, lab and examples
 in class will be presented using `C++`.  Only simple `C++` language features
 will be utilized for this class.  If your proficiency is in `C`, you should be
 getting along without trouble.  Lecture material for a `C`/`C++` primer class
-can be found [here](https://code.harvard.edu/faw093/c_cpp_primer). Familiarity
+can be found [here](https://code.harvard.edu/CS205/c_cpp_primer). Familiarity
 with Linux command line tools, `ssh`, `git` and tools to edit source code is
 assumed. Prerequisite classes include CS50, CS61, CS107, CS161 or AC207.
 <!-- TODO: Check c++ primer links  -->
