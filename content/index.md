@@ -18,7 +18,7 @@ The aim of CS205 is to introduce the student to the fundamentals of parallel pro
 
 Boris Kozinsky (<bkoz@g.harvard.edu>)
 <!-- TODO: Fill  -->
-* Office: Pierce Hall 030
+* Office: Pierce Hall 303
 * Office Hours:
 
 
