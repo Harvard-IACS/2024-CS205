@@ -31,13 +31,13 @@ Ignacio Becker Troncoso (<iebecker@g.harvard.edu>)
 <!-- TODO: Fill Office hours and Labs -->
 | Fellow                      | Email                                  | Office Hours | Lab Section |
 |:----------------------------|:---------------------------------------|:-------------|:------------|
-| Yixian Gan                   | <ygan@g.harvard.edu>               | TBD  | Mon 8:15-9:30am (Zoom)<br>Tue 8:15-9:30am (Zoom)|
-| Tanner Marsh              | <tam997@g.harvard.edu>   | TBD  | Wed 11:15-12:30pm (SEC 2.122)  |
-| Vlad Cainamisir         | <vcainamisir@college.harvard.edu>     | TBD | Thu 5:15-6:30pm (SEC 6.301) |
-| Hongyi Sun              | <hongyi_sun@fas.harvard.edu>          | TBD  | Tue 3:45-5pm (SEC 2.122 + 2.123)|
-| Aadit Saluja             | <aaditsaluja@college.harvard.edu>        | TBD  | Mon 3:45-5pm (SEC 2.122)    |
-| Sree Harsha Tanneru             | <sreeharshatanneru@g.harvard.edu>        | TBD  | Tue 3:45-5pm (SEC 2.122 + 2.123)    |
-| Matthew Shum             | <mshum@college.harvard.edu>        | TBD  |Tue 11:15-12:30pm (MD Room TBD)    |
+| Yixian Gan                   | <ygan@g.harvard.edu>               | Thu 8-9:30pm (Zoom)<br>Fri 8-9:30pm (Zoom)  | Mon 8:15-9:30am (Zoom)<br>Tue 8:15-9:30am (Zoom)|
+| Tanner Marsh              | <tam997@g.harvard.edu>   | Fri 2-3:30pm (SEC 1.312) | Wed 11:15-12:30pm (SEC 2.122)  |
+| Vlad Cainamisir         | <vcainamisir@college.harvard.edu>     | TBD| Thu 5:15-6:30pm (SEC 6.301) |
+| Hongyi Sun              | <hongyi_sun@fas.harvard.edu>          |Thu 3:30 - 5pm (SEC 1.312) | Tue 3:45-5pm (SEC 2.122 + 2.123)|
+| Aadit Saluja             | <aaditsaluja@college.harvard.edu>        | Mon 8-9:30pm (Leverett DH) | Mon 3:45-5pm (SEC 2.122)    |
+| Sree Harsha Tanneru             | <sreeharshatanneru@g.harvard.edu>        |Tue 12:30-2pm (SEC 1.312)  | Tue 3:45-5pm (SEC 2.122 + 2.123)    |
+| Matthew Shum             | <mshum@college.harvard.edu>        | Thu 12:30-2pm (SEC 1.312)  |Tue 11:15-12:30pm (MD Room TBD)    |
 
 SEC is the Science and Engineering Complex in Allston and MD is the Maxwell-Dworkin building in Cambridge.
 
