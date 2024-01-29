@@ -62,7 +62,7 @@ All lectures are of 75 minutes duration. Time is given in Eastern Standard Time 
 * **[Class Git repository](https://code.harvard.edu/CS205/main_2024):** The handouts in CS205 are provided through the `main` repository hosted in the CS205 organization. You can clone this repository once you have joined the CS205 organization.
 
 ```
-git clone git@code.harvard.edu:CS205/main_2024.git
+git clone git@code.harvard.edu:CS205/main.git
 ```
 
 You can request membership in the CS205 organization by filling out [this form ](https://canvas.harvard.edu/courses/128330/assignments/796230)(using your `.harvard.edu` email). You  must include your [NetID](https://harvard.service-now.com/ithelp?id=kb_article&sys_id=507aca5a1b653700efd8a79b2d4bcb59), which is also your <https://code.harvard.edu> username (something similar to `abc123`). Make sure you log in to [https://code.harvard.edu/](https://code.harvard.edu/) before submitting your NetID.

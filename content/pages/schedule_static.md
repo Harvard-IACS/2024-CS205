@@ -2,7 +2,6 @@ Title: Schedule
 Slug: schedule_static
 Date: 2022-12-10
 
-
 <!-- 0. Fix column widths to
 <colgroup>
 <col style="width:8%">
@@ -17,7 +16,7 @@ Date: 2022-12-10
 <!-- 2. set all font-size=100% -->
 <!-- Use this command: :%s/font-size:[0-9]\+%/font-size:100%/g -->
 
-Due events are indicated in <span style="color:tomato">red</span> in the column on the right.  All due events **with a given date are due on 09:59 pm that day**.
+Due events are indicated in <span style="color:tomato">red</span> in the column on the right. All due events **with a given date are due on 09:59 pm that day**.
 
 <!-- Syllabus page 1 -->
 <table style="width:100%;font-size:100%">
@@ -96,7 +95,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     </td>
 </tr>
 
-
 <tr style="font-size:100%">
     <td><strong style="color:orange">2(5)</strong></td>
     <td>
@@ -120,7 +118,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ul>
     </td>
     <td style="background-color: rgba(101, 123, 131, 0.1);">
-        <strong><em><a href="https://code.harvard.edu/CS205/main_2024/raw/main/lab/lab1/lab1.pdf" target="_blank">Lab 1</a>:</em></strong>
+        <strong><em><a href="https://code.harvard.edu/CS205/main/raw/main/lab/lab1/lab1.pdf" target="_blank">Lab 1</a>:</em></strong>
         <p style="margin-top:0;margin-bottom:0;font-size:100%">Accessing cluster, SLURM, Linux, compiler and C++ tutorials.</p>
     </td>
     <td style="background-color: rgba(154, 205, 50, 0.1);">
@@ -135,7 +133,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ol>
     </td>
 </tr>
-
 
 <tr style="font-size:100%">
     <td>
@@ -158,7 +155,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
             <li>Introduction to OpenMP: why OpenMP and how to use it in new or existing codes</li>
             <li>OpenMP: fork/join parallel regions</li>
             <li>OpenMP: work sharing constructs</li>
-            <li><strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main_2024/raw/main/reading/02_OpenMP_spec_v51.pdf" target="_blank">OpenMP specification 5.1 Chap. 1 (until 1.4 inclusive)</a> </li>
+            <li><strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main/raw/main/reading/02_OpenMP_spec_v51.pdf" target="_blank">OpenMP specification 5.1 Chap. 1 (until 1.4 inclusive)</a> </li>
         </ul>
     </td>
     <td></td>
@@ -174,7 +171,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ol>
     </td>
 </tr>
-
 
 <tr style="font-size:100%">
     <td>
@@ -214,7 +210,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     </td>
 </tr>
 
-
 <tr style="font-size:100%">
     <td>
     <strong style="color:orange">5(8)</strong>
@@ -234,7 +229,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
             <li>Performance analysis (single node)</li>
             <li>Relationship of compute performance (flop) to memory bandwidth</li>
             <li>Roofline model</li>
-            <strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main_2024/raw/main/reading/03_williams2009a.pdf" target="_blank">Williams paper</a>
+            <strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main/raw/main/reading/03_williams2009a.pdf" target="_blank">Williams paper</a>
         </ul>
     </td>
     <td style="background-color: rgba(101, 123, 131, 0.1);">
@@ -271,7 +266,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
             <li>MPI: blocking point-to-point</li>
             <li>MPI: blocking collective</li>
             <li>
-                <strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main_2024/raw/main/manuals/mpi40-report.pdf" target="_blank"> MPI 4.0 Standard 3.1, 3.2, 3.4, 3.5</a>
+                <strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main/raw/main/manuals/mpi40-report.pdf" target="_blank"> MPI 4.0 Standard 3.1, 3.2, 3.4, 3.5</a>
             </li>
         </ul>
     </td>
@@ -293,7 +288,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         <ul style="font-size:100%">
             <li>MPI: non-blocking point-to-point</li>
             <li>MPI: non-blocking collective</li>
-            <li><strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main_2024/raw/main/manuals/mpi40-report.pdf" target="_blank">MPI 4.0 Standard 3.7, 6.1</a></li>
+            <li><strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main/raw/main/manuals/mpi40-report.pdf" target="_blank">MPI 4.0 Standard 3.7, 6.1</a></li>
         </ul>
     </td>
     <td>
@@ -319,7 +314,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     </td>
 </tr>
 
-
 <tr style="font-size:100%">
     <td>
         <strong style="color:orange">8(11)</strong>
@@ -335,7 +329,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     <td></td>
     <td style="background-color: rgba(154, 205, 50, 0.1);"></td>
 </tr>
-
 
 <tr style="font-size:100%">
     <td>
@@ -365,8 +358,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     </td>
 </tr>
 
-
-
 <tr style="font-size:100%">
     <td>
         <strong style="color:orange">10(13)</strong>
@@ -387,7 +378,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
             <li>Instruction set architecture (ISA) / RISC / CISC</li>
             <li>Processor pipelining (ILP)</li>
             <li>
-                <strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main_2024/raw/main/reading/04_hennessy2019a.pdf" target="_blank">Hennessy and Patterson Turing lecture</a>
+                <strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main/raw/main/reading/04_hennessy2019a.pdf" target="_blank">Hennessy and Patterson Turing lecture</a>
             </li>
         </ul>
     </td>
@@ -403,7 +394,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ol>
     </td>
 </tr>
-
 
 <tr style="font-size:100%">
     <td>
@@ -441,8 +431,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     </td>
 </tr>
 
-
-
 <tr style="font-size:100%">
     <td>
         <strong style="color:orange">12(15)</strong>
@@ -468,8 +456,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     </td>
 </tr>
 
-
-
 <tr style="font-size:100%">
     <td>
         <strong style="color:orange">13(16)</strong>
@@ -489,7 +475,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         <ul style="font-size:100%">
             <li>SPMD programming model</li>
             <li>Intel ISPC compiler</li>
-            <li><strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main_2024/raw/main/reading/05_pharr2012a.pdf" target="_blank">Pharr paper</a></li>
+            <li><strong><em>Reading:</em></strong> <a href="https://code.harvard.edu/CS205/main/raw/main/reading/05_pharr2012a.pdf" target="_blank">Pharr paper</a></li>
         </ul>
     </td>
     <td style="background-color: rgba(101, 123, 131, 0.1);">
@@ -505,8 +491,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ol>
     </td>
 </tr>
-
-
 
 <tr style="font-size:100%">
     <td>
@@ -540,8 +524,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ol>
     </td>
 </tr>
-
-
 
 <tr style="font-size:100%">
     <td>
@@ -577,7 +559,6 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ol>
     </td>
 </tr>
-
 
 <tr style="font-size:100%">
     <td>
