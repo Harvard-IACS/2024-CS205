@@ -209,7 +209,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         <ol style="font-size:100%">
             <li><span style="color:tomato">HW1 due<br>(2024-02-13)</span></li>
             <li><span style="color:yellowgreen">HW2 release<br>(2024-02-13)</span></li>
-            <li><span style="color:yellowgreen">Quiz 2<br>(2024-02-16)</span></li>
+            <li><span style="color:tomato">Quiz 2<br>(2024-02-16)</span></li>
         </ol>
     </td>
 </tr>
@@ -314,7 +314,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         <ol style="font-size:100%">
             <li><span style="color:tomato">HW2 due<br>(2024-03-05)</span></li>
             <li> <span style="color:yellowgreen">HW3 release<br>(2024-03-05)</span></li>
-            <li><span style="color:yellowgreen">Quiz 3<br>(2024-03-08)</span></li>
+            <li><span style="color:tomato">Quiz 3<br>(2024-03-08)</span></li>
         </ol>
     </td>
 </tr>
@@ -501,7 +501,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         <ol style="font-size:100%">
             <li><span style="color:tomato">HW4 due<br>(2024-04-16)</span></li>
             <li><span style="color:yellowgreen">HW5 release<br>(2024-04-16)</span></li>
-            <li><span style="color:yellowgreen">Quiz 4<br>(2024-02-19)</span></li>
+            <li><span style="color:tomato">Quiz 4<br>(2024-02-19)</span></li>
         </ol>
     </td>
 </tr>
