@@ -120,7 +120,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ul>
     </td>
     <td style="background-color: rgba(101, 123, 131, 0.1);">
-        <strong><em>Lab 1:</em></strong>
+        <strong><em><a href="https://code.harvard.edu/CS205/main_2024/raw/main/lab/lab1/lab1.pdf" target="_blank">Lab 1</a>:</em></strong>
         <p style="margin-top:0;margin-bottom:0;font-size:100%">Accessing cluster, SLURM, Linux, compiler and C++ tutorials.</p>
     </td>
     <td style="background-color: rgba(154, 205, 50, 0.1);">
