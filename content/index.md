@@ -31,16 +31,15 @@ Ignacio Becker Troncoso (<iebecker@g.harvard.edu>)
 <!-- TODO: Fill Office hours and Labs -->
 | Fellow                      | Email                                  | Office Hours | Lab Section |
 |:----------------------------|:---------------------------------------|:-------------|:------------|
-| Yixian Gan                   | <ygan@g.harvard.edu>               | TBD  | TBD    |
-| Tanner Marsh              | <tam997@g.harvard.edu>   | TBD  | TBD  |
-| Vlad Cainamisir         | <vcainamisir@college.harvard.edu>     | TBD | TBD |
-| Hongyi Sun              | <hongyi_sun@fas.harvard.edu>          | TBD  | TBD |
-| Aadit Saluja             | <aaditsaluja@college.harvard.edu>        | TBD  | TBD    |
-| Sree Harsha Tanneru             | <sreeharshatanneru@g.harvard.edu>        | TBD  | TBD    |
-| Matthew Shum             | <mshum@college.harvard.edu>        | TBD  | TBD    |
+| Yixian Gan                   | <ygan@g.harvard.edu>               | TBD  | Mon 8:15-9:30am (Zoom)<br>Tue 8:15-9:30am (Zoom)|
+| Tanner Marsh              | <tam997@g.harvard.edu>   | TBD  | Wed 11:15-12:30pm (SEC 2.122)  |
+| Vlad Cainamisir         | <vcainamisir@college.harvard.edu>     | TBD | Thu 5:15-6:30pm (SEC 6.301) |
+| Hongyi Sun              | <hongyi_sun@fas.harvard.edu>          | TBD  | Tue 3:45-5pm (SEC 2.122 + 2.123)|
+| Aadit Saluja             | <aaditsaluja@college.harvard.edu>        | TBD  | Mon 3:45-5pm (SEC 2.122)    |
+| Sree Harsha Tanneru             | <sreeharshatanneru@g.harvard.edu>        | TBD  | Tue 3:45-5pm (SEC 2.122 + 2.123)    |
+| Matthew Shum             | <mshum@college.harvard.edu>        | TBD  |Tue 11:15-12:30pm (MD Room TBD)    |
 
-SEC is the Science and Engineering Complex in Allston and MD is the
-MaxwellDworkin building in Cambridge.
+SEC is the Science and Engineering Complex in Allston and MD is the Maxwell-Dworkin building in Cambridge.
 
 > * **Office Hours:** TBD
 > * **Labs:** <a href="https://docs.google.com/spreadsheets/d/1w9WryKCfZ--RGjEujGyqUGi36t-x5X79A_v0mTyAI64/edit?usp=sharing" target="_blank">Lab times signup sheet.</a>
