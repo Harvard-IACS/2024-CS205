@@ -50,10 +50,10 @@ In general, we do not anticipate that the grades for each team member will be di
 
 #### <a id="M1-deliverable"></a><a class="anchor-link" href="#M1-deliverable">Deliverables</a>
 <!-- TODO Change project registration -->
-> 1. Report your team members and request a team ID from [`cs205-staff@g.harvard.edu`](mailto:cs205-staff@g.harvard.edu).
->    Your team ID will be `team01` if you are team 1 or `team10` if you are team 10 and so on.
-> 2. The project code will be hosted in _private_ repositories in the [CS205 organization](https://code.harvard.edu/CS205/) at `code.harvard.edu`. Once
->    you have received your team ID from item 1, a member of your team creates a private repository in the CS205 organization named after your team ID (e.g. `team01` if you are team 1) and adds its team members to the repository (you do not need to add the teaching staff, we will have access already).
+<!-- > 1. Report your team members and request a team ID from [`cs205-staff@g.harvard.edu`](mailto:cs205-staff@g.harvard.edu). -->
+<!-- >    Your team ID will be `team01` if you are team 1 or `team10` if you are team 10 and so on. -->
+> 1. Create your team in [Canvas](https://canvas.harvard.edu/courses/128330/groups). Your team ID will be `team01` if you are team 1 or `team10` if you are team 10 and so on.
+> 2. The project code will be hosted in _private_ repositories in the [CS205 organization](https://code.harvard.edu/CS205/) at `code.harvard.edu`. Once you have your team ID from item 1, a member of your team creates a private repository in the CS205 organization named after your team ID (e.g. `team01_2024` if you are team 1) and adds its team members to the repository (you do not need to add the teaching staff, we will have access already).
 
 
 ### <a id="M2"></a><a class="anchor-link" href="#M2">High-Level Project Description</a>
@@ -139,7 +139,7 @@ The final project deliverables are:
 
 #### <a id="M5-report"></a><a class="anchor-link" href="#M5-report">Final Report</a>
 <!-- TODO: Change the latex requirement -->
-The final project report is written in the form of a proposal that can be submitted to a high performance computing center to request compute hours for a (research) project on one of their supercomputers. The report must be typeset using [LaTeX](https://en.wikipedia.org/wiki/LaTeX).  A template for a final report with additional instructions is given in this [`pdf`file]({attach}./cs205_project_report_template.pdf). The corresponding `tex`file can be [downloaded here]({attach}./cs205_project_report_template.tex). A short LaTeX tutorial can be found [here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).  Note that collaborating with `tex` files that are tracked in a `git` repository can be troublesome due to different formatting settings of the individual contributors which will confuse `git` and result in many merge conflicts.  An alternative to work on the collaborative project report could be [papeeria.com](https://papeeria.com/landing).
+The final project report is written in the form of a proposal that can be submitted to a high performance computing center to request compute hours for a (research) project on one of their supercomputers. The report should be organized and clear. It is recommended to write it using [LaTeX](https://en.wikipedia.org/wiki/LaTeX).  A template for a final report with additional instructions is given in this [`pdf`file]({attach}./cs205_project_report_template.pdf). The corresponding `tex`file can be [downloaded here]({attach}./cs205_project_report_template.tex). A short LaTeX tutorial can be found [here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).  Note that collaborating with `tex` files that are tracked in a `git` repository can be troublesome due to different formatting settings of the individual contributors which will confuse `git` and result in many merge conflicts.  An alternative to work on the collaborative project report could be [papeeria.com](https://papeeria.com/landing).
 
 
 #### <a id="M5-code"></a><a class="anchor-link" href="#M5-code">Project Code</a>
