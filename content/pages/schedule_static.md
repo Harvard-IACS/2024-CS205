@@ -166,7 +166,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
             <span style="color:tomato"> <a href="https://www.gradescope.com/courses/711577/assignments/3988469" target="_blank">Lab 1 due </a> <br>(2024-02-09)</span>
         </li>
         <li>
-            <span style="color:tomato">Project team formation due<br>(2024-02-06)</span>
+            <span style="color:tomato"> <a href="./project.html#M1" taget="_blank"> Project team formation due</a> <br>(2024-02-06)</span>
         </li>
         </ol>
     </td>
@@ -203,7 +203,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     <td style="background-color: rgba(154, 205, 50, 0.1);">
         <br>
         <ol style="font-size:100%">
-            <li><span style="color:tomato">HW1 due<br>(2024-02-13)</span></li>
+            <li><span style="color:tomato"><a href="https://www.gradescope.com/courses/711577/assignments/3988467" target="_blank" > HW1 due </a> <br>(2024-02-13)</span></li>
             <li><span style="color:yellowgreen">HW2 release<br>(2024-02-13)</span></li>
             <li><span style="color:tomato">Quiz 2<br>(2024-02-16)</span></li>
         </ol>
