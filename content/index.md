@@ -39,6 +39,11 @@ Ignacio Becker Troncoso (<iebecker@g.harvard.edu>)
 | Sree Harsha Tanneru             | <sreeharshatanneru@g.harvard.edu>        |Tue 12:30-2pm (SEC 1.312)  | Tue 3:45-5pm (SEC 2.122 + 2.123)    |
 | Matthew Shum             | <mshum@college.harvard.edu>        | Thu 12:30-2pm (SEC 1.312)  |Thu 11:15-12:30pm (SEC 6.301)    |
 
+
+### <a id="tf"></a><a class="anchor-link" href="#tf">Course Calendar</a>
+<center><p><iframe style="border: solid 1px #777;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;mode=WEEK&amp;src=NDY0NzdkOTQ2Mzc2NTAwOWVkYzY1NDNhNzM4NGYyMzU1MjM2MzAxNzcwYzY3N2QxZWYwODM2YzlkZGVhNjdlYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23EF6C00" width="800" height="600"></iframe></p></center>
+
+
 SEC is the Science and Engineering Complex in Allston and MD is the Maxwell-Dworkin building in Cambridge.
 
 > * **Labs:** <a href="https://docs.google.com/spreadsheets/d/1w9WryKCfZ--RGjEujGyqUGi36t-x5X79A_v0mTyAI64/edit?usp=sharing" target="_blank">Lab times signup sheet.</a>
