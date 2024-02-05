@@ -8,8 +8,8 @@ Date: 2021-12-28
 The CS205 project objective is to apply the techniques learned in class on a concrete real application to gain hands-on experience with writing and optimizing parallel code.  Your project should be oriented on a compute intensive problem, either from your research area or something you come up with from scratch (given that it fits into the time frame offered by the class).  The final report is written in the form of a proposal that can be submitted to a high performance computing center to request compute hours on a supercomputer used for your project application.  The teaching staff is in the role of the HPC admission committee and will evaluate and grade your proposal.
 
 You will start with a sequential baseline implementation that serves as the reference benchmark.  This benchmark will be used as the reference case for the subsequent implementation that must run in parallel (shared memory, distributed memory or both) and is ideally
-<!-- TODO change links -->
-optimized on the node level.  The target platform are the computing resources offered by [FASRC](https://www.rc.fas.harvard.edu/). A successful project will present a performance analysis with respect to thereference case and presents results for parallel scaling and throughput.
+
+optimized on the node level.  The target platform are the computing resources offered by the [Academic Cluster](https://ood.huit.harvard.edu/). A successful project will present a performance analysis with respect to the reference case and presents results for parallel scaling and throughput.
 
 > Each project group is responsible for planning and fostering the project progress and to meet the project deadlines outlined in the> <a href="./schedule_static.html">schedule</a>.
 
