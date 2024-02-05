@@ -11,7 +11,7 @@ You will start with a sequential baseline implementation that serves as the refe
 
 optimized on the node level.  The target platform are the computing resources offered by the [Academic Cluster](https://ood.huit.harvard.edu/). A successful project will present a performance analysis with respect to the reference case and presents results for parallel scaling and throughput.
 
-> Each project group is responsible for planning and fostering the project progress and to meet the project deadlines outlined in the> <a href="./schedule_static.html">schedule</a>.
+> Each project group is responsible for planning and fostering the project progress and to meet the project deadlines outlined in the <a href="./schedule_static.html">schedule</a>.
 
 
 ### <a id="project-requirements"></a><a class="anchor-link" href="#project-requirements">Project Requirements</a>
