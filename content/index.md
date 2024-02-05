@@ -29,15 +29,15 @@ Ignacio Becker Troncoso (<iebecker@g.harvard.edu>)
 
 ### <a id="tf"></a><a class="anchor-link" href="#tf">Teaching Fellows</a>
 <!-- TODO: Fill Office hours and Labs -->
-| Fellow                      | Email                                  | Office Hours | Lab Section |
-|:----------------------------|:---------------------------------------|:-------------|:------------|
-| Yixian Gan                   | <ygan@g.harvard.edu>               | Thu 8-9:30pm (Zoom)<br>Fri 8-9:30pm (Zoom)  | Mon 8:15-9:30am (Zoom)<br>Tue 8:15-9:30am (Zoom)|
-| Tanner Marsh              | <tam997@g.harvard.edu>   | Fri 2-3:30pm (SEC 1.312) | Wed 11:15-12:30pm (SEC 2.122)  |
-| Vlad Cainamisir         | <vcainamisir@college.harvard.edu>     | Wed 8-9:30pm (Leverett DH)| Tue 5:15-6:30pm (MD 221) |
-| Hongyi Sun              | <hongyi_sun@fas.harvard.edu>          |Thu 3:30 - 5pm (SEC 1.312) | Tue 3:45-5pm (SEC 2.122 + 2.123)|
-| Aadit Saluja             | <aaditsaluja@college.harvard.edu>        | Mon 8-9:30pm (Leverett DH) | Mon 3:45-5pm (SEC 2.122)    |
-| Sree Harsha Tanneru             | <sreeharshatanneru@g.harvard.edu>        |Tue 12:30-2pm (SEC 1.312)  | Tue 3:45-5pm (SEC 2.122 + 2.123)    |
-| Matthew Shum             | <mshum@college.harvard.edu>        | Thu 12:30-2pm (SEC 1.312)  |Thu 11:15-12:30pm (SEC 6.301)    |
+| Fellow                      | Email                                  |
+|:----------------------------|:---------------------------------------|
+| Yixian Gan                   | <ygan@g.harvard.edu>               |
+| Tanner Marsh              | <tam997@g.harvard.edu>   |
+| Vlad Cainamisir         | <vcainamisir@college.harvard.edu>     |
+| Hongyi Sun              | <hongyi_sun@fas.harvard.edu>          |
+| Aadit Saluja             | <aaditsaluja@college.harvard.edu>        |
+| Sree Harsha Tanneru             | <sreeharshatanneru@g.harvard.edu>        |
+| Matthew Shum             | <mshum@college.harvard.edu>        |
 
 
 ### <a id="tf"></a><a class="anchor-link" href="#tf">Course Calendar</a>
