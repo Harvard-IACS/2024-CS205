@@ -44,7 +44,7 @@ There are five milestones for your final project.  The deadlines for each milest
 
 ### <a id="M1"></a><a class="anchor-link" href="#M1">Team Formation</a>
 
-Students are required to form teams and to partition the work among the team members. The final project must be done in teams with 3-4 members each. You are free to form teams and you can use the <a href="../#class-forum">class forum</a> to find prospective team members. You may also find and discuss project ideas through the forum.
+Students are required to form teams and to partition the work among the team members. The final project must be done in teams with 4-5 members each. You are free to form teams and you can use the <a href="../#class-forum">class forum</a> to find prospective team members. You may also find and discuss project ideas through the forum.
 
 In general, we do not anticipate that the grades for each team member will be different. However, we reserve the right to assign different grades to each group member if it becomes apparent that one of them put in a vastly different amount of effort than the others.
 
