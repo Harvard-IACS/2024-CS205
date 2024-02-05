@@ -163,7 +163,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         <br>
         <ol style="font-size:100%">
         <li>
-            <span style="color:tomato"> Lab 1 due<br>(2024-02-09)</span>
+            <span style="color:tomato"> <a href="https://www.gradescope.com/courses/711577/assignments/3988469" target="_blank">Lab 1 due </a> <br>(2024-02-09)</span>
         </li>
         <li>
             <span style="color:tomato">Project team formation due<br>(2024-02-06)</span>
