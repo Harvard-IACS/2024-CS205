@@ -49,12 +49,10 @@ Students are required to form teams and to partition the work among the team mem
 In general, we do not anticipate that the grades for each team member will be different. However, we reserve the right to assign different grades to each group member if it becomes apparent that one of them put in a vastly different amount of effort than the others.
 
 #### <a id="M1-deliverable"></a><a class="anchor-link" href="#M1-deliverable">Deliverables</a>
-<!-- TODO Change project registration -->
-<!-- > 1. Report your team members and request a team ID from [`cs205-staff@g.harvard.edu`](mailto:cs205-staff@g.harvard.edu). -->
-<!-- >    Your team ID will be `team01` if you are team 1 or `team10` if you are team 10 and so on. -->
-> 1. Create your team in [Canvas](https://canvas.harvard.edu/courses/128330/groups). Your team ID will be `team01` if you are team 1 or `team10` if you are team 10 and so on.
+> 1. Report your team members and request a team ID from [`cs205-staff@g.harvard.edu`](mailto:cs205-staff@g.harvard.edu).
+>    Your team ID will be `team01` if you are team 1 or `team10` if you are team 10 and so on.
 > 2. The project code will be hosted in _private_ repositories in the [CS205 organization](https://code.harvard.edu/CS205/) at `code.harvard.edu`. Once you have your team ID from item 1, a member of your team creates a private repository in the CS205 organization named after your team ID (e.g. `team01_2024` if you are team 1) and adds its team members to the repository (you do not need to add the teaching staff, we will have access already).
-
+> 3. Create your team in [Canvas](https://canvas.harvard.edu/courses/128330/groups).
 
 ### <a id="M2"></a><a class="anchor-link" href="#M2">High-Level Project Description</a>
 
