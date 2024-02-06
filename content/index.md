@@ -23,12 +23,10 @@ Boris Kozinsky (<bkoz@g.harvard.edu>)
 
 
 Ignacio Becker Troncoso (<iebecker@g.harvard.edu>)
-<!-- TODO: Fill  -->
 * Office: SEC 1.312-05
-* Office Hours:
+* Office Hours: Wed 2-3pm (or schedule a meeting via email)
 
 ### <a id="tf"></a><a class="anchor-link" href="#tf">Teaching Fellows</a>
-<!-- TODO: Fill Office hours and Labs -->
 | Fellow                      | Email                                  |
 |:----------------------------|:---------------------------------------|
 | Yixian Gan                   | <ygan@g.harvard.edu>               |
