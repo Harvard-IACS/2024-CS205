@@ -93,7 +93,7 @@ The course contains six main components:
 3. **Quizzes:** Graded asynchronous quizzes.
 4. **Labs:** Lab sessions offer practice on topics addressed in class and help support homework assignments.  <a href="./syllabus.html#attendance-policy">Attendance is mandatory.</a>
 5. **Homeworks:** Homework assignments deepen the lecture material and include coding exercises (skeleton codes are provided in `C++`).  Exercises may be of theoretical or practical nature, including applications such as simulations based on particle methods or stencil methods on structured grids.
-6. **Projects:** The class is accompanied by a project (teams of 3-4 students) to practice the methods learned in class on a real application. Topics are proposed by the teams and may involve research problems of individual team members.
+6. **Projects:** The class is accompanied by a project (teams of 4-5 students) to practice the methods learned in class on a real application. Topics are proposed by the teams and may involve research problems of individual team members.
 
 
 ### <a id="homework"></a><a class="anchor-link" href="#homework">Homework</a>
