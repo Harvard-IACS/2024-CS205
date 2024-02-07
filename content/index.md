@@ -23,6 +23,7 @@ Boris Kozinsky (<bkoz@g.harvard.edu>)
 
 
 Ignacio Becker Troncoso (<iebecker@g.harvard.edu>)
+
 * Office: SEC 1.312-05
 * Office Hours: Wed 2-3pm (or schedule a meeting via email)
 
