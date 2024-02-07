@@ -487,7 +487,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         <ol style="font-size:100%">
             <li><span style="color:tomato">HW4 due<br>(2024-04-16)</span></li>
             <li><span style="color:yellowgreen">HW5 release<br>(2024-04-16)</span></li>
-            <li><span style="color:tomato">Quiz 4<br>(2024-02-19)</span></li>
+            <li><span style="color:tomato">Quiz 4<br>(2024-04-19)</span></li>
         </ol>
     </td>
 </tr>
