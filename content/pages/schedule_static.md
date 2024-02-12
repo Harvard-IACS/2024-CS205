@@ -273,7 +273,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     <td></td>
     <td style="background-color: rgba(154, 205, 50, 0.1);">
         <ol style="font-size:100%">
-            <li><span style="color:tomato"> Lab 3 due<br>(2024-03-01)</span></li>
+            <li><span style="color:tomato"> <a href="https://www.gradescope.com/courses/711577/assignments/3988474" target="_blank">Lab 3 due</a><br>(2024-03-01)</span></li>
         </ol>
     </td>
 </tr>
@@ -307,7 +307,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     <td style="background-color: rgba(154, 205, 50, 0.1);">
         <br>
         <ol style="font-size:100%">
-            <li><span style="color:tomato">HW2 due<br>(2024-03-05)</span></li>
+            <li><span style="color:tomato"><a href="https://www.gradescope.com/courses/711577/assignments/3988468" target="_blank">HW2 due</a><br>(2024-03-05)</span></li>
             <li> <span style="color:yellowgreen">HW3 release<br>(2024-03-05)</span></li>
             <li><span style="color:tomato">Quiz 3<br>(2024-03-08)</span></li>
         </ol>
@@ -349,7 +349,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         <br>
         <ol style="font-size:100%">
             <li>
-                <span style="color:tomato"> Lab 4 due
+                <span style="color:tomato"> <a href="https://www.gradescope.com/courses/711577/assignments/3988475" target="_blank">Lab 4 due</a>
                 <br>(2024-03-15)</span></li>
             <li>
                 <span style="color:tomato">Project proposals due </span>
@@ -389,7 +389,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     <td style="background-color: rgba(154, 205, 50, 0.1);">
         <br>
         <ol style="font-size:100%">
-            <li><span style="color:tomato">HW3 due<br>(2024-03-26)</span></li>
+            <li><span style="color:tomato"><a href="https://www.gradescope.com/courses/711577/assignments/3988470" target="_blank">HW3 due</a><br>(2024-03-26)</span></li>
             <li><span style="color:yellowgreen">HW4 release<br>(2024-03-26)</span></li>
         </ol>
     </td>
@@ -424,7 +424,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         <br>
         <ol style="font-size:100%">
         <li><span style="color:tomato">
-                Lab 5 due
+                <a href="https://www.gradescope.com/courses/711577/assignments/3988476" target="_blank">Lab 5 due</a>
                 <br>(2024-04-05)</span>
         </li>
         </ol>
@@ -485,7 +485,11 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     <td style="background-color: rgba(154, 205, 50, 0.1);">
         <br>
         <ol style="font-size:100%">
-            <li><span style="color:tomato">HW4 due<br>(2024-04-16)</span></li>
+            <li>
+                <span style="color:tomato">
+                    <a href="https://www.gradescope.com/courses/711577/assignments/3988471" target="_blank">HW4 due</a><br>(2024-04-16)
+                </span>
+            </li>
             <li><span style="color:yellowgreen">HW5 release<br>(2024-04-16)</span></li>
             <li><span style="color:tomato">Quiz 4<br>(2024-04-19)</span></li>
         </ol>
@@ -519,8 +523,17 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
     <td style="background-color: rgba(154, 205, 50, 0.1);">
         <br>
         <ol style="font-size:100%">
-            <li><span style="color:tomato">HW5 due<br>(2024-04-28)</span></li>
-            <li><span style="color:tomato">Lab 6 due<br>(2024-04-26)</span></li>
+            <li>
+                <span style="color:tomato">
+                    <a href="https://www.gradescope.com/courses/711577/assignments/4091975" target="_blank"> HW5 due</a><br>(2024-04-28)
+                </span>
+            </li>
+            <li>
+                <span style="color:tomato">
+                    <a href="https://www.gradescope.com/courses/711577/assignments/3988477" target="_blank"> Lab 6 due</a>
+                    <br>(2024-04-26)
+                </span>
+            </li>
         </ol>
     </td>
 </tr>
