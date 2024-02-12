@@ -233,7 +233,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ul>
     </td>
     <td style="background-color: rgba(101, 123, 131, 0.1);">
-        <strong><em>Lab 3:</em></strong>
+        <strong><em><a href="https://code.harvard.edu/CS205/main/raw/main/lab/lab3/lab3.pdf" target="_blank">Lab 3</a>:</em></strong>
         <p style="margin-top:0;margin-bottom:0;font-size:100%"> False sharing and cache thrashing. </p>
     </td>
     <td style="background-color: rgba(154, 205, 50, 0.1);">
@@ -301,7 +301,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ul>
     </td>
     <td style="background-color: rgba(101, 123, 131, 0.1);">
-        <strong><em>Lab 4:</em></strong>
+        <strong><em><a href="https://code.harvard.edu/CS205/main/raw/main/lab/lab4/lab4.pdf" target="_blank">Lab 4</a>:</em></strong>
         <p style="margin-top:0;margin-bottom:0;font-size:100%"> MPI reductions and scans. </p>
     </td>
     <td style="background-color: rgba(154, 205, 50, 0.1);">
@@ -383,7 +383,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ul>
     </td>
     <td style="background-color: rgba(101, 123, 131, 0.1);">
-        <strong><em>Lab 5:</em></strong>
+        <strong><em><a href="https://code.harvard.edu/CS205/main/raw/main/lab/lab5/lab5.pdf" target="_blank">Lab 5</a>:</em></strong>
         <p style="margin-top:0;margin-bottom:0;font-size:100%">Linking your code with third party libraries.  Examples for BLAS and LAPACK.</p>
     </td>
     <td style="background-color: rgba(154, 205, 50, 0.1);">
@@ -479,7 +479,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         </ul>
     </td>
     <td style="background-color: rgba(101, 123, 131, 0.1);">
-        <strong><em>Lab 6:</em></strong>
+        <strong><em><a href="https://code.harvard.edu/CS205/main/raw/main/lab/lab6/lab6.pdf" target="_blank">Lab 6</a>:</em></strong>
         <p style="margin-top:0;margin-bottom:0;font-size:100%">Understanding machine instructions by learning how to debug code.</p>
     </td>
     <td style="background-color: rgba(154, 205, 50, 0.1);">
