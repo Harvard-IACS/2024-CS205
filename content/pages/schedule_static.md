@@ -205,7 +205,11 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
         <ol style="font-size:100%">
             <li><span style="color:tomato"><a href="https://www.gradescope.com/courses/711577/assignments/3988467" target="_blank" > HW1 due </a> <br>(2024-02-13)</span></li>
             <li><span style="color:yellowgreen">HW2 release<br>(2024-02-13)</span></li>
-            <li><span style="color:tomato">Quiz 2<br>(2024-02-16)</span></li>
+            <li>
+            <span style="color:tomato">
+                <a href="https://canvas.harvard.edu/courses/128330/quizzes/356207" target="_blank" >Quiz 2<br>(2024-02-16)
+            </span>
+            </li>
         </ol>
     </td>
 </tr>
