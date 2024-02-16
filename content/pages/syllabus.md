@@ -166,9 +166,9 @@ Please see the <a href="./project.html">project</a> section for more details.
 There are **4 quizzes** which are graded. Each quiz addresses topics _from the lecture material_. Quizzes are open book/`www` and include multiple choice questions with at most back of the envelope calculations.  Quizzes take between 15 to 30 minutes (10-15 questions) and are hosted on Canvas. You cannot use generative models, such as ChatGPT.
 
 > * **Quiz 1: 02-02-2024**, Lecture 1 to 3
-> * **Quiz 2: TBD**, Lecture 4 to 7
-> * **Quiz 3: TBD**, Lecture 9 to 13
-> * **Quiz 4: TBD**, Lecture 15 to 19
+> * **Quiz 2: 02-16-2024**, Lecture 4 to 7
+> * **Quiz 3: 03-08-2024**, Lecture 9 to 13
+> * **Quiz 4: 04-19-2024**, Lecture 15 to 19
 >
 > Please see the class <a href="./schedule_static.html">schedule</a> as well.
 
