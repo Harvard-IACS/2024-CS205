@@ -207,7 +207,7 @@ Due events are indicated in <span style="color:tomato">red</span> in the column 
             <li><span style="color:yellowgreen">HW2 release<br>(2024-02-13)</span></li>
             <li>
             <span style="color:tomato">
-                <a href="https://canvas.harvard.edu/courses/128330/quizzes/356207" target="_blank" >Quiz 2<br>(2024-02-16)
+                <a href="https://canvas.harvard.edu/courses/128330/quizzes/356207" target="_blank" >Quiz 2</a><br>(2024-02-16)
             </span>
             </li>
         </ol>
