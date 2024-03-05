@@ -181,7 +181,7 @@ The purpose of the CS205 labs is to provide extended practice on important topic
 Lab sections will be offered through [this spreadsheet](https://docs.google.com/spreadsheets/d/1w9WryKCfZ--RGjEujGyqUGi36t-x5X79A_v0mTyAI64/edit?usp=sharing) where you should choose your preferred section(s) such that we can perform an optimized sectioning given your input. This section should be maintained throughout the semester.
 There will be **6 labs** in total. See the <a href="./schedule_static.html">schedule</a> page for more information on lab content and the <a href="./syllabus.html#attendance-policy">attendance policy</a> section below.
 
-
+<!-- TODO: Fix wording about the definition of completeness and effort. And how the grading will be done.-->
 #### <a id="lab-submission"></a><a class="anchor-link" href="#lab-submission">Lab Submission</a>
 
 
@@ -192,6 +192,7 @@ The lab due date is indicated on the problem sheet and displayed in the <a href=
 
 1. **Attendance:** your attendance will be recorded by the TF who leads the lab. Be respectful to others by not being late.
 2. **Completion:** lab submissions should show effort that the student attempted to solve the tasks.  If you experience difficulties in a particular problem and you are not able to complete the task, please indicate the issues you had in your code using comments and we will take that reasoning into account. Just handing in an empty lab skeleton (same as hand-out) does not meet the expected standard and will not award credit for submission.
+<!-- TODO: lab attendance is expected. If a holiday happens, you have to attend a different section. We will provide additional sections, and even Oh can do. -->
 
 ### <a id="reading-assignments"></a><a class="anchor-link" href="#reading-assignments">Reading Assignments</a>
 
