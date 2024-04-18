@@ -30,7 +30,6 @@ Ignacio Becker Troncoso (<iebecker@g.harvard.edu>)
 ### <a id="tf"></a><a class="anchor-link" href="#tf">Teaching Fellows</a>
 | Fellow                      | Email                                  |
 |:----------------------------|:---------------------------------------|
-| Yixian Gan                   | <ygan@g.harvard.edu>               |
 | Tanner Marsh              | <tam997@g.harvard.edu>   |
 | Vlad Cainamisir         | <vcainamisir@college.harvard.edu>     |
 | Hongyi Sun              | <hongyi_sun@fas.harvard.edu>          |
