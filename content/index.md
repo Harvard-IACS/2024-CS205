@@ -17,7 +17,6 @@ The aim of CS205 is to introduce the student to the fundamentals of parallel pro
 ### <a id="instructor"></a><a class="anchor-link" href="#instructor">Instructors</a>
 
 Boris Kozinsky (<bkoz@g.harvard.edu>)
-<!-- TODO: Fill  -->
 * Office: Pierce Hall 303
 * Office Hours: by appointment
 
@@ -30,12 +29,12 @@ Ignacio Becker Troncoso (<iebecker@g.harvard.edu>)
 ### <a id="tf"></a><a class="anchor-link" href="#tf">Teaching Fellows</a>
 | Fellow                      | Email                                  |
 |:----------------------------|:---------------------------------------|
-| Tanner Marsh              | <tam997@g.harvard.edu>   |
-| Vlad Cainamisir         | <vcainamisir@college.harvard.edu>     |
-| Hongyi Sun              | <hongyi_sun@fas.harvard.edu>          |
-| Aadit Saluja             | <aaditsaluja@college.harvard.edu>        |
-| Sree Harsha Tanneru             | <sreeharshatanneru@g.harvard.edu>        |
-| Matthew Shum             | <mshum@college.harvard.edu>        |
+| Tanner Marsh              | <tam997@g.harvard.edu>                 |
+| Vlad Cainamisir           | <vcainamisir@college.harvard.edu>      |
+| Hongyi Sun                | <hongyi_sun@fas.harvard.edu>           |
+| Aadit Saluja              | <aaditsaluja@college.harvard.edu>      |
+| Sree Harsha Tanneru       | <sreeharshatanneru@g.harvard.edu>      |
+| Matthew Shum              | <mshum@college.harvard.edu>            |
 
 
 ### <a id="tf"></a><a class="anchor-link" href="#tf">Course Calendar</a>
@@ -66,7 +65,7 @@ All lectures are of 75 minutes duration. Time is given in Eastern Standard Time 
 
 * **[Canvas](https://canvas.harvard.edu/courses/128330):** Is used for posting grades and other class sensitive content.
 * **[Gradescope](https://canvas.harvard.edu/courses/128330/external_tools/101445?display=borderless):** Is used for homework and lab submissions.
-* **[Class Git repository](https://code.harvard.edu/CS205/main_2024):** The handouts in CS205 are provided through the `main` repository hosted in the CS205 organization. You can clone this repository once you have joined the CS205 organization.
+* **[Class Git repository](https://code.harvard.edu/CS205/main):** The handouts in CS205 are provided through the `main` repository hosted in the CS205 organization. You can clone this repository once you have joined the CS205 organization.
 
 ```
 git clone git@code.harvard.edu:CS205/main.git
